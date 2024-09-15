@@ -10,6 +10,6 @@ I've tried keeping various blogs over the years but never managed to keep them g
 
 I think the primary issue was that I would select processes and platforms that caused a lot of friction between writing and posting, so I never wanted to go through the effort of posting a quick thought snippet.
 
-This time I have decided to use a dedicated blog platform to make it easier on myself. At an initial glance, [Ghost](https://ghost.org/) seems snappy and has enough features to satisfy my needs for now.
+This time I have decided to use a dedicated blog platform in order to make it easier on myself. At an initial glance, [Ghost](https://ghost.org/) seems to fit the bill  and has enough features to satisfy my needs for now.
 
 Let's see if this one sticks. Hopefully, it does.

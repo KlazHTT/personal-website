@@ -6,7 +6,7 @@ permalink: /about
 
 My name is Hao Tran. 👋
 
-I am interested in the intersections of productivity, knowledge, and technology. Most of my personal time is dedicated to consuming informational content, tinkering with software, and playing video games.
+I am interested in the intersections between productivity, knowledge, and technology. Most of my personal time is dedicated to consuming informational content, tinkering with software, and playing video games.
 
 - See my [gaming history](https://trello.com/b/r6Nmb9VL/gaming) on Trello.
 - See my [reading history](https://trello.com/b/luhlPjL7/reading) on Trello.

@@ -3,7 +3,7 @@ layout: post
 title: Cloudpunk
 permalink: /cloudpunk
 date: 2024-09-15
-tags: games
+tags: gaming
 ---
 
 ![](/images/cloudpunk_title.png)

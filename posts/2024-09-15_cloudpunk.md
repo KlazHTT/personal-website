@@ -12,7 +12,7 @@ tags: gaming
 
 ![](/images/cloudpunk_01.png)
 
-Cloudpunk delivers the experience of what it is like to be a delivery driver cruising from point A to point B in a neon-lit cyberpunk city filled with skyscrapers while driving a flying vehicle and listening to relaxing music.
+*Cloudpunk* delivers the experience of what it is like to be a delivery driver cruising from point A to point B in a neon-lit cyberpunk city filled with skyscrapers while driving a flying vehicle and listening to relaxing music.
 
 Frequently, there are scripted conversations between characters that flesh out the realities of living in the city and the daily lives of its inhabitants, which were engaging enough for me to look forward to hearing the ringing tone of the communication system and being able to learn more. Discussions about class systems, ethics about using AI, what is considered a life form, and corporate dystopian control were woven into the narrative as you deliver packages and taxi people to their destinations.
 
@@ -22,7 +22,7 @@ Both the voice acting and the music were fantastic. Line deliveries were great, 
 
 ![](/images/cloudpunk_02.png)
 
-I think the weakest part of the game is most of the out-of-vehicle sections where you have to navigate around convoluted platforms and wait for a ridiculous number of elevators. Many times I have walked into a dead-end and had to backtrack to go to a different Z-axis to get to my destination point (and then meander my way back to my vehicle too!) which is quite frustrating due to the slow walking speed and limited map capabilities.
+I think the weakest part of *Cloudpunk* is most of the out-of-vehicle sections where you have to navigate around convoluted platforms and wait for a ridiculous number of elevators. Many times I have walked into a dead-end and had to backtrack to go to a different Z-axis to get to my destination point (and then meander my way back to my vehicle too!) which is quite frustrating due to the slow walking speed and limited map capabilities.
 
 I think if the developers increased the walking speed, then most of my frustrations with this game would be alleviated and make the out-of-vehicle sections feel less like a chore.
 

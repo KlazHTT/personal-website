@@ -22,10 +22,10 @@ Both the voice acting and the music were fantastic. Line deliveries were great, 
 
 ![](/images/cloudpunk_02.png)
 
-I think the weakest part of *Cloudpunk* is most of the out-of-vehicle sections where you have to navigate around convoluted platforms and wait for a ridiculous number of elevators. Many times I have walked into a dead-end and had to backtrack to go to a different Z-axis to get to my destination point (and then meander my way back to my vehicle too!) which is quite frustrating due to the slow walking speed and limited map capabilities.
+I think the weakest part of *Cloudpunk* is most of the out-of-vehicle sections that force players to navigate around convoluted platforms and wait for a ridiculous number of elevators. Many times I have walked into a dead-end and had to backtrack to go to a different Z-axis to get to my destination point (and then meander my way back to my vehicle too!) which is quite frustrating due to the slow walking speed and limited map capabilities.
 
 I think if the developers increased the walking speed, then most of my frustrations with this game would be alleviated and make the out-of-vehicle sections feel less like a chore.
 
 ![](/images/cloudpunk_03.png)
 
-Overall, great vibe, would drive again. I was pleasantly surprised by the super chill experience.
+Overall, the game has a great vibe that I would drive through again. I was pleasantly surprised by the super chill experience.

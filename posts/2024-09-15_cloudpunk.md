@@ -8,7 +8,7 @@ tags: gaming
 
 ![](/images/cloudpunk_title.png)
 
-> A neon-noir story in a rain-drenched cyberpunk metropolis. It’s your first night on the job working for the Cloudpunk delivery service. Two rules: Don’t miss a delivery and don’t ask what’s in the package.
+> *A neon-noir story in a rain-drenched cyberpunk metropolis. It’s your first night on the job working for the Cloudpunk delivery service. Two rules: Don’t miss a delivery and don’t ask what’s in the package.*
 
 ![](/images/cloudpunk_01.png)
 
@@ -28,4 +28,4 @@ I think if the developers increased the walking speed, then most of my frustrati
 
 ![](/images/cloudpunk_03.png)
 
-Overall, the game has a great vibe that I would drive through again. I was pleasantly surprised by the super chill experience.
+Overall, the game has a great vibe that I wouldn't mind driving through again. I was pleasantly surprised by the super chill experience.

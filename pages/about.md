@@ -24,6 +24,6 @@ This URL has been my online home for many years and acts as a central hub for my
 
 - Hosted on [Ghost](https://ghost.org/)(Pro) — An open-source blog and newsletter publishing platform.
 - Logo designed by [AIRA Studio](https://www.linkedin.com/in/aira-studio-902a37243/). Fancy.
-- Images and screenshots for games were either taken by myself or from media press kits.
+- Images and screenshots for games were either taken by myself or from media press kits put together by the game's developers and/or publishers.
 
 Any opinions posted here are my own and not representative of any of my employers (whether past, future, and/or present) or clients.

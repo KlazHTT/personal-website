@@ -1,0 +1,83 @@
+---
+layout: page
+title: Using
+permalink: /using
+---
+
+Here is a list of notable equipment and tools I use. The purpose of this list is to remind myself to be intentional about the things that I surround myself with and utilize on a daily basis.
+
+Last reviewed: 2024-09-20
+
+## Hardware
+
+### Devices  
+- Computer: Custom-built desktop machine (Built in 2024)
+  - CPU: AMD Ryzen 7 7900X3D 4.2GHz 8-Core
+  - GPU: AMD Radeon RX 7900 XT 20GB
+  - RAM: 32GB (2 x 16GB) DDR5-6000
+- Phone: iPhone 11 (Purchased in 2019)
+- E-reader: Kobo Clara (Purchsed in 2023)
+
+### Workspace
+- Desk: Custom-built sit-stand desk (Built in 2022)
+  - Tabletop: Custom walnut tabletop (54" length x 30" width x 1-1/2" thick with rounded corners) from [Atelier East-End Mtl](https://eastendmtl.com/)
+  - Legs: Apex Pro from [Deskhaus](https://desk.haus/)
+- Chair: Herman Miller Aeron (Purchased in 2023)
+  - Add-on: Headrest for Aeron Chair from [Atlas Headrest](https://atlasheadrest.com/)
+  - If the Aeron did not exist, I would have purchased the Embody.
+
+### Peripherals
+- Monitors: Using a stacked dual-screen setup
+  - 34" 21:9 IPS 180Hz (Purchased in 2022)
+  - 24" 16:9 IPS 60Hz (Purchased in 2020)
+- Keyboard: Custom mechanical keyboard (Built in 2024)
+  - PCB: [Wooting 60HE](https://wooting.io/wooting-60he) (Purchased in 2023)
+  - Case: Tofu60 Redux
+  - Switches: Geon Raw HE (50g, factory lubed)
+  - Keycaps: PBTfans X-Ray set designed by [Matthew Encina](https://matthewencina.com/) from [Mod Musings](https://www.modmusings.com/)
+- Mice:
+  - Logitech G PRO X Superlight 2 (Gifted in 2023)
+  - Logitech G604 (Purchased in 2020) — Used exclusively for playing FFXIV because that game has way too many short cooldowns to be mapping only on the keyboard.
+  - Logitech MX Master 2S (Purhcased in 2021) — Used exclusively for work purposes.
+- Mic setup:
+  - Audio interface: Elgato Wave XLR (Purchased in 2022)
+  - Microphone: Audio Technica AT2035 (Purchased in 2018)
+  - Boom arm: RODE PSA1 (Purchased in 2017)
+- Listening setup:
+  - Headphone DAC/Amplifer: FiiO K5 Pro (Purchased in 2024)
+  - Headphones:
+    - Recently, I purchased a bunch of IEMs that were on sale at [Linsoul](https://www.linsoul.com/) and am currently using whatever I open first. Turns out I prefer using IEMs over headphones.
+    - Previously, I used the Audio-Technica ATH-M50X headphones (from 2014⁠–2024) until it died.
+  - Speakers: Kanto YU2 (Purchased in 2023)
+
+## Software
+
+### General
+- Operating system: [Fedora](https://fedoraproject.org/) KDE
+- Browser: [Mozilla Firefox](https://www.mozilla.org/firefox) which is hardened for my daily use.
+- Password Manager: [Bitwarden](https://bitwarden.com/)
+- RSS feed reader: [CommaFeed](https://www.commafeed.com/)
+
+### Communications
+- Email: [ProtonMail](https://proton.me/mail)
+- Chat: [Discord](https://discord.com/)
+
+### Productivity
+- Calendar: [ProtonCalendar](https://proton.me/calendar)
+- Notes: [Capacities](https://capacities.io/)
+  - I've tried and used an unbelieveable number of note-taking applications over the years.
+  - Capacities has been the only app that has made sense to me in terms of linking relavant notes together. It also checks the boxes for features that I am looking for in a note-taking application.
+  - Alternatives I've tried: Obsidian, Logseq, Standard Notes, BookStack, Joblin, Notion, Simple Note, TiddlyWiki, GitBook, Notational Velocity, Evernote, OneNote, etc.
+- Kanban: Trello
+  - Currently considering: WeKan, Planka
+
+### Development
+- Font: Hack Nerd Font
+- Theme: [Ayu](https://github.com/ayu-theme) Dark
+- Tabs: 2 spaces
+- Terminal emulator: Konsole
+  - It comes with the KDE desktop environment.
+  - I don't use the terminal enough to develop a personal preference.
+- Editor: Visual Studio Code
+  - It works and does what I need it to do out-of-the-box.
+  - Alternatives I've tried: Neovim, Sublime Text, Atom, Brackets, Notepad++, Notepad, etc.

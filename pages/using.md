@@ -16,7 +16,7 @@ Last reviewed: 2024-09-20
   - GPU: AMD Radeon RX 7900 XT 20GB
   - RAM: 32GB (2 x 16GB) DDR5-6000
 - **Phone**: iPhone 11 (*Purchased in 2019*)
-- **E-reader**: Kobo Clara (*Purchsed in 2023*)
+- **E-reader**: Kobo Clara (*Purchased in 2023*)
 
 ### Workspace
 - **Desk**: Custom-built sit-stand desk (*Built in 2022*)
@@ -38,7 +38,7 @@ Last reviewed: 2024-09-20
 - **Mice**:
   - Logitech G PRO X Superlight 2 (*Gifted in 2023*)
   - Logitech G604 (Purchased in 2020) — Used exclusively for playing FFXIV because that game has way too many short cooldowns to be mapping only on the keyboard.
-  - Logitech MX Master 2S (*Purhcased in 2021*) — Used exclusively for work purposes.
+  - Logitech MX Master 2S (*Purchased in 2021*) — Used exclusively for work purposes.
 - **Microphone setup**:
   - Audio interface: Elgato Wave XLR (*Purchased in 2022*)
   - Microphone: Audio Technica AT2035 (*Purchased in 2018*)
@@ -95,3 +95,31 @@ Last reviewed: 2024-09-20
 - **Repository**: [Gitea](https://about.gitea.com/)
   - Currently, I am using a self-hosted Gitea to store my project repositories.
   - Also using GitHub to mirror my project repositories.
+
+## Paid Subscriptions and Services
+
+Here are online subscriptions and services that I pay for:
+
+| Services                                | Annual USD | Monthly USD | Monthly CAD (approx.) |
+| --------------------------------------- | ---------: | ----------: | --------------------: |
+| Bitwarden                               |     $10.00 |       $0.83 |
+| Hover (for 3x domain names)             |     $54.97 |       $4.58 |
+| Proton (Mail Plus)                      |     $47.88 |       $3.99 |
+| Discord (Nitro Basic)                   |     $35.88 |       $2.99 |
+| PikaPods (for hosting web apps)         |     $84.00 |       $7.00 |
+| Ghost(Pro) (for managing this website!) |    $108.00 |       $9.00 |
+| You Need A Budget                       |    $109.00 |       $9.08 |
+| Video streaming (various)               |    $180.00 |      $15.00 |
+| Totals                                  |            |             |
+
+For PikaPods, I have a couple web apps deployed using their managed services:
+- [Gitea](https://gitea.com/) for my personal project repositories.
+- [CommaFeed](https://github.com/Athou/commafeed/) for reading RSS feeds.
+- [Navidrome](https://www.navidrome.org/) as my personal music streaming service.
+- [Umami](https://umami.is/) for collecting and analyzing visitor metrics.
+
+For video streaming, I rotate through a number of services and only subscribe for a month at a time to watch what I want. In some months, I don't have an active subcription running, so this number is a little inflated.
+
+For 2025:
+- I intend to stop using YNAB because its subscription cost has significantly increased over the years and no longer feels worth it to me. Currently, considering using [Actual](https://actualbudget.com/) which would slightly increase my PikaPod costs for an additional managed web app.
+- Consider whether Ghost(Pro) is worth it.

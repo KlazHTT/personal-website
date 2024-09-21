@@ -72,8 +72,8 @@ Last reviewed: 2024-09-20
 ### Productivity
 - **Calendar**: [ProtonCalendar](https://proton.me/calendar)
 - **Notes**: [Capacities](https://capacities.io/)
-  - I've tried and used an unbelieveable number of note-taking applications over the years.
-  - Capacities has been the only app that has made sense to me in terms of linking relavant notes together. It also checks the boxes for features that I am looking for in a note-taking application.
+  - I've tried and used an unbelievable number of note-taking applications over the years.
+  - Capacities has been the only app that has made sense to me in terms of linking relevant notes together. It also checks the boxes for features that I am looking for in a note-taking application.
   - Alternatives I've tried: Obsidian, Logseq, Standard Notes, BookStack, Joblin, Notion, Simple Note, TiddlyWiki, GitBook, Notational Velocity, Evernote, OneNote, etc.
 - **Kanban**: Trello
   - Currently considering: [WeKan](https://wekan.github.io/), [Planka](https://planka.app/)
@@ -116,7 +116,7 @@ For PikaPods, I have a couple web apps deployed using their managed services:
 - [Navidrome](https://www.navidrome.org/) as my personal music streaming service.
 - [Umami](https://umami.is/) for collecting and analyzing visitor metrics.
 
-For video streaming, I rotate through a number of services and only subscribe for a month at a time to watch what I want. In some months, I don't have an active subcription running, so this number is a little inflated.
+For video streaming, I rotate through a number of services and only subscribe for a month at a time to watch what I want. In some months, I don't have an active subscription running, so this number is a little inflated.
 
 For 2025:
 - I intend to stop using YNAB because its subscription cost has significantly increased over the years and no longer feels worth it to me. Currently, considering using [Actual](https://actualbudget.com/) which would only slightly increase my PikaPod costs for an additional managed web app.

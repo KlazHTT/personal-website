@@ -16,8 +16,8 @@ Sometimes I enjoy writing and sharing my thoughts and experiences.
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/haothitran/) — Professional profile for work history and networking.
-- [Gitea](https://forge.haothitran.com/KlazHTT) (also mirrored to [GitHub](https://github.com/KlazHTT)) — Personal coding projects, , sporadically updated.
-- [Twitch](https://www.twitch.tv/klazhtt) — For streaming, usually games.
+- [Gitea](https://forge.haothitran.com/KlazHTT) (also mirrored to [GitHub](https://github.com/KlazHTT)) — Personal coding projects, sporadically updated.
+- [Twitch](https://www.twitch.tv/klazhtt) — For streaming my gameplay.
 
 ## Site
 This URL has been my online home for many years and acts as a central hub for my online identity, communication, and work.

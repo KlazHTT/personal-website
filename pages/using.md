@@ -54,7 +54,7 @@ Last reviewed: 2024-09-20
 
 ### General
 - **Operating system**: [Fedora](https://fedoraproject.org/) KDE
-  - In 2024, I switched over to using Linux on my personal computer. Surprisingly, the transition has been smooth sailing with some minor audio/video issues that were easy to fix. 
+  - In 2024, I switched over from Windows 11 to using Linux on my personal computer. Surprisingly, the transition has been smooth sailing with some minor audio/video issues that were easy to fix.
   - Alternatives I've tried: Arch Linux, Solus, Linux Mint, Ubuntu, Windows 11/10/8/XP/1998, Mac OS X Snow Leopard, etc.
 - **Browser**: [Mozilla Firefox](https://www.mozilla.org/firefox)
   - Hardened for my daily usage.
@@ -64,10 +64,9 @@ Last reviewed: 2024-09-20
 
 ### Communications
 - **Email**: [ProtonMail](https://proton.me/mail)
-  - Using a custom domain for your email makes it easier to switch email providers.
   - Alternatives I've tried: Fastmail, Gmail, Hotmail
 - **Chat**: [Discord](https://discord.com/)
-  - I don't like how reliant gamers have become on Discord functioning.
+  - I don't like how reliant gamers have become on Discord for communications.
   - However, I also don't miss the days of having to install Ventrilo, Mumble, TeamSpeak, Skype, RaidCall, Curse Voice, etc. on your computer because different teams and friend groups used different voice programs.
 
 ### Productivity
@@ -78,7 +77,6 @@ Last reviewed: 2024-09-20
   - Alternatives I've tried: Obsidian, Logseq, Standard Notes, BookStack, Joblin, Notion, Simple Note, TiddlyWiki, GitBook, Notational Velocity, Evernote, OneNote, etc.
 - **Kanban**: Trello
   - Currently considering: [WeKan](https://wekan.github.io/), [Planka](https://planka.app/)
-  - I want to move towards using an open source platform.
 - **Budgeting**: You Need A Budget
   - I like budgeting using the envelope system.
 
@@ -100,17 +98,17 @@ Last reviewed: 2024-09-20
 
 Here are online subscriptions and services that I pay for:
 
-| Services                                | Annual USD | Monthly USD | Monthly CAD (approx.) |
-| --------------------------------------- | ---------: | ----------: | --------------------: |
-| Bitwarden                               |     $10.00 |       $0.83 |
-| Hover (for 3x domain names)             |     $54.97 |       $4.58 |
-| Proton (Mail Plus)                      |     $47.88 |       $3.99 |
-| Discord (Nitro Basic)                   |     $35.88 |       $2.99 |
-| PikaPods (for hosting web apps)         |     $84.00 |       $7.00 |
-| Ghost(Pro) (for managing this website!) |    $108.00 |       $9.00 |
-| You Need A Budget                       |    $109.00 |       $9.08 |
-| Video streaming (various)               |    $180.00 |      $15.00 |
-| Totals                                  |            |             |
+| Subscriptions and Services              | Annual USD | Monthly USD | Monthly CAD |
+| --------------------------------------- | ---------: | ----------: | ----------: |
+| Bitwarden                               |     $10.00 |       $0.83 |       $1.13 |
+| Hover (for domain names)                |     $54.97 |       $4.58 |       $6.23 |
+| Proton (Mail Plus)                      |     $47.88 |       $3.99 |       $5.43 |
+| Discord (Nitro Basic)                   |     $35.88 |       $2.99 |       $4.07 |
+| PikaPods (for hosting web apps)         |     $84.00 |       $7.00 |       $9.42 |
+| Ghost(Pro) (for managing this website!) |    $108.00 |       $9.00 |      $12.24 |
+| You Need A Budget                       |    $109.00 |       $9.08 |      $12.35 |
+| Video streaming (various)               |    $180.00 |      $15.00 |      $20.40 |
+| Totals                                  |    $629.73 |      $52.48 |      $71.27 |
 
 For PikaPods, I have a couple web apps deployed using their managed services:
 - [Gitea](https://gitea.com/) for my personal project repositories.
@@ -121,5 +119,7 @@ For PikaPods, I have a couple web apps deployed using their managed services:
 For video streaming, I rotate through a number of services and only subscribe for a month at a time to watch what I want. In some months, I don't have an active subcription running, so this number is a little inflated.
 
 For 2025:
-- I intend to stop using YNAB because its subscription cost has significantly increased over the years and no longer feels worth it to me. Currently, considering using [Actual](https://actualbudget.com/) which would slightly increase my PikaPod costs for an additional managed web app.
+- I intend to stop using YNAB because its subscription cost has significantly increased over the years and no longer feels worth it to me. Currently, considering using [Actual](https://actualbudget.com/) which would only slightly increase my PikaPod costs for an additional managed web app.
 - Consider whether Ghost(Pro) is worth it.
+
+Otherwise, I am quite happy with how much I am spending on my online subscriptions. It could be better, but I am satisfied that it is below $100 CAD per month.

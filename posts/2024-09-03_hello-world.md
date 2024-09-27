@@ -2,7 +2,7 @@
 layout: post
 title: Hello, World!
 permalink: /hello-world
-date: 2024-09-03
+date: 2024-09-03 @ 08:30
 tags: meta
 ---
 

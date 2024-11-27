@@ -68,23 +68,3 @@ I chose the destroy ending because my Shepard's primary objective was to destroy
 This was a journey that I would gladly take on again. 
 
 *​Shepard out*. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,15 +1,16 @@
 ---
-layout: page
 title: About
-permalink: /about
+link: about
+published_date: 2025-09-03 00:00
+is_page: true
+make_discoverable: false
 ---
+
+# About
 
 My name is Hao Tran. 👋
 
 I am interested in the intersections between productivity, knowledge, and technology. Most of my personal time is dedicated to consuming informational content, tinkering with software, and playing video games.
-
-- See my [gaming history](https://trello.com/b/r6Nmb9VL/gaming) on Trello.
-- See my [reading history](https://trello.com/b/luhlPjL7/reading) on Trello.
 
 Sometimes I enjoy writing and sharing my thoughts and experiences.
 
@@ -22,8 +23,8 @@ Sometimes I enjoy writing and sharing my thoughts and experiences.
 ## Site
 This URL has been my online home for many years and acts as a central hub for my online identity, communication, and work.
 
-- Hosted on [Ghost](https://ghost.org/)(Pro) — An open-source blog and newsletter publishing platform.
-- Logo designed by [AIRA Studio](https://www.linkedin.com/in/aira-studio-902a37243/). Fancy.
+- Hosted on [Bear](https://bearblog.dev/) — A privacy-first, no-nonsense, super-fast blogging platform
+- Logo designed by [AIRA Studio](https://www.linkedin.com/in/aira-studio-902a37243/). — Fancy.
 - Images and screenshots for games were either taken by myself or from media press kits put together by the game's developers and/or publishers.
 
 Any opinions posted here are my own and not representative of any of my employers (whether past, future, and/or present) or clients.

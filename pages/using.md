@@ -101,18 +101,18 @@ Last updated: {{ post_last_modified }} ago
 
 Here are online subscriptions and services that I pay for:
 
-| Subscriptions | Annual USD | Monthly USD | Monthly CAD |
-|---|---:|---:|---:|
-| Bitwarden | $10.00 | $0.83 | $1.19 |
-| Hover (domain names) | $55.33 | $4.61 | $6.63 |
-| Bear (blogging platform) | $49.00 | $4.08 | $5.89 |
-| PikaPods (hosting web apps) | $57.72 | $4.81 | $6.95 |
-| Proton (Mail Plus) | $47.99 | $3.99 | $5.74 |
-| Discord (Nitro Basic) | $33.89 | $2.82 | $4.05 |
-| Spotify (Duo) | $149.40 | $12.45 | $17.89 |
-| Video streaming (various) | $166.92 | $13.91 | $20.00 |
-| Gaming services | $166.92 | $13.91 | $20.00 |
-| **Totals** | **$737.17** | **$61.41** | **$88.34** |
+| Subscriptions               |  Annual USD | Monthly USD | Monthly CAD |
+| --------------------------- | ----------: | ----------: | ----------: |
+| Bitwarden                   |      $10.00 |       $0.83 |       $1.19 |
+| Hover (domain names)        |      $55.33 |       $4.61 |       $6.63 |
+| Bear (blogging platform)    |      $49.00 |       $4.08 |       $5.89 |
+| PikaPods (hosting web apps) |      $57.72 |       $4.81 |       $6.95 |
+| Proton (Mail Plus)          |      $47.99 |       $3.99 |       $5.74 |
+| Discord (Nitro Basic)       |      $33.89 |       $2.82 |       $4.05 |
+| Spotify (Duo)               |     $149.40 |      $12.45 |      $17.89 |
+| Video streaming (various)   |     $166.92 |      $13.91 |      $20.00 |
+| Gaming services             |     $166.92 |      $13.91 |      $20.00 |
+| **Totals**                  | **$737.17** |  **$61.41** |  **$88.34** |
 
 For PikaPods, I have a couple web apps deployed using their managed services:
 - [Actual](https://actualbudget.org/) for personal budgeting using the envelop method.

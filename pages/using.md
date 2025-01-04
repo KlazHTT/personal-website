@@ -4,6 +4,8 @@ title: Using
 permalink: /using
 ---
 
+# Using
+
 Here is a list of notable equipment and tools I use. The purpose of this list is to remind myself to be intentional about the things that I surround myself with and utilize on a daily basis.
 
 Last updated: {{ post_last_modified }} ago
@@ -77,8 +79,9 @@ Last updated: {{ post_last_modified }} ago
   - Alternatives I've tried: Obsidian, Logseq, Standard Notes, BookStack, Joblin, Notion, Simple Note, TiddlyWiki, GitBook, Notational Velocity, Evernote, OneNote, etc.
 - **Kanban**: Trello
   - Currently considering: [WeKan](https://wekan.github.io/), [Planka](https://planka.app/)
-- **Budgeting**: You Need A Budget
+- **Budgeting**: [Actual](https://actualbudget.org/)
   - I like budgeting using the envelope system.
+  - Alternatives I've tried: You Need A Budget
 
 ### Development
 - **Font**: Hack Nerd Font
@@ -98,28 +101,24 @@ Last updated: {{ post_last_modified }} ago
 
 Here are online subscriptions and services that I pay for:
 
-| Subscriptions and Services              | Annual USD | Monthly USD | Monthly CAD |
-| --------------------------------------- | ---------: | ----------: | ----------: |
-| Bitwarden                               |     $10.00 |       $0.83 |       $1.13 |
-| Hover (for domain names)                |     $54.97 |       $4.58 |       $6.23 |
-| Proton (Mail Plus)                      |     $47.88 |       $3.99 |       $5.43 |
-| Discord (Nitro Basic)                   |     $35.88 |       $2.99 |       $4.07 |
-| PikaPods (for hosting web apps)         |     $84.00 |       $7.00 |       $9.42 |
-| Ghost(Pro) (for managing this website!) |    $108.00 |       $9.00 |      $12.24 |
-| You Need A Budget                       |    $109.00 |       $9.08 |      $12.35 |
-| Video streaming (various)               |    $180.00 |      $15.00 |      $20.40 |
-| Totals                                  |    $629.73 |      $52.48 |      $71.27 |
+| Subscriptions | Annual USD | Monthly USD | Monthly CAD |
+|---|---:|---:|---:|
+| Bitwarden | $10.00 | $0.83 | $1.19 |
+| Hover (domain names) | $55.33 | $4.61 | $6.63 |
+| Bear (blogging platform) | $49.00 | $4.08 | $5.89 |
+| PikaPods (hosting web apps) | $57.72 | $4.81 | $6.95 |
+| Proton (Mail Plus) | $47.99 | $3.99 | $5.74 |
+| Discord (Nitro Basic) | $33.89 | $2.82 | $4.05 |
+| Spotify (Duo) | $149.40 | $12.45 | $17.89 |
+| Video streaming (various) | $166.92 | $13.91 | $20.00 |
+| Gaming services | $166.92 | $13.91 | $20.00 |
+| **Totals** | **$737.17** | **$61.41** | **$88.34** |
 
 For PikaPods, I have a couple web apps deployed using their managed services:
-- [Gitea](https://gitea.com/) for my personal project repositories.
+- [Actual](https://actualbudget.org/) for personal budgeting using the envelop method.
 - [CommaFeed](https://github.com/Athou/commafeed/) for reading RSS feeds.
-- [Navidrome](https://www.navidrome.org/) as my personal music streaming service.
-- [Umami](https://umami.is/) for collecting and analyzing visitor metrics.
+- [Gitea](https://gitea.com/) for my personal project repositories.
 
 For video streaming, I rotate through a number of services and only subscribe for a month at a time to watch what I want. In some months, I don't have an active subscription running, so this number is a little inflated.
 
-For 2025:
-- I intend to stop using YNAB because its subscription cost has significantly increased over the years and no longer feels worth it to me. Currently, considering using [Actual](https://actualbudget.com/) which would only slightly increase my PikaPod costs for an additional managed web app.
-- Consider whether Ghost(Pro) is worth it.
-
-Otherwise, I am quite happy with how much I am spending on my online subscriptions. It could be better, but I am satisfied that it is below $100 CAD per month.
+Overall, I am quite happy with how much I am spending on my online subscriptions. It could be better, but I am satisfied that it is below $100 CAD per month.

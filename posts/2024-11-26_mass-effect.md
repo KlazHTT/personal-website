@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Mass Effect
-permalink: /mass-effect
-date: 2024-11-26 @ 22:17
+link: mass-effect
+published_date: 2024-11-26 22:17
 tags: gaming
+make_discoverable: false
 ---
 
 ![](/images/mass-effect_title.png)

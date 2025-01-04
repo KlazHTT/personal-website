@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Strange Horitculture
-permalink: /strange-horticulture
-date: 2024-09-22 @ 08:44
+link: strange-horticulture
+published_date: 2024-09-22 08:44
 tags: gaming
+make_discoverable: false
 ---
 
 ![](/images/strange-horticulture_title.png)

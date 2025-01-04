@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Hello, World!
-permalink: /hello-world
-date: 2024-09-03 @ 08:30
+link: hello-world
+published_date: 2024-09-03 08:30
 tags: meta
+make_discoverable: false
 ---
 
 I've tried keeping various blogs over the years but never managed to keep them going despite having so much that I want to write about and let out into the world.

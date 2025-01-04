@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Cloudpunk
-permalink: /cloudpunk
-date: 2024-09-15 @ 20:17
+link: cloudpunk
+published_date: 2024-09-15 20:17
 tags: gaming
+make_discoverable: false
 ---
 
 ![](/images/cloudpunk_title.png)

@@ -8,15 +8,9 @@ make_discoverable: false
 
 # Gaming
 
-- Here is a list of games that I've played.
-- Games listed here do not necessarily reflect my personal views or whether I would recommend someone play them — because I've played a bunch of mediocre games.
-- See an alternative [kanban board view](https://trello.com/b/r6Nmb9VL/gaming) on Trello.
+Here is a list of games that I've played. See an alternative [kanban board view](https://trello.com/b/r6Nmb9VL/gaming) on Trello.
 
-## Currently
-- **Hogwarts Legacy** (2023, PC)
-- **Rusty's Retirement** (2024, PC)
-
-Last updated: {{ post_last_modified }} ago
+Games listed here do not necessarily reflect my personal views or whether I would recommend someone play them — because I've played a bunch of mediocre games.
 
 ## 2024
 - **Deponia** (2012, PC) — *Revisit.*

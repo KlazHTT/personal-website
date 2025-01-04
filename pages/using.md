@@ -6,7 +6,7 @@ permalink: /using
 
 Here is a list of notable equipment and tools I use. The purpose of this list is to remind myself to be intentional about the things that I surround myself with and utilize on a daily basis.
 
-Last reviewed: 2024-09-20
+Last updated: {{ post_last_modified }} ago
 
 ## Hardware
 

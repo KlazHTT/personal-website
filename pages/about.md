@@ -24,7 +24,8 @@ Sometimes I enjoy writing and sharing my thoughts and experiences.
 This URL has been my online home for many years and acts as a central hub for my online identity, communication, and work.
 
 - Hosted on [Bear](https://bearblog.dev/) — A privacy-first, no-nonsense, super-fast blogging platform
-- Logo designed by [AIRA Studio](https://www.linkedin.com/in/aira-studio-902a37243/). — Fancy.
-- Images and screenshots for games were either taken by myself or from media press kits put together by the game's developers and/or publishers.
+- Logo designed by [AIRA Studio](https://www.linkedin.com/in/aira-studio-902a37243/). — Fancy, huh?
+
+Images and screenshots for games were either taken by myself or from media press kits put together by the game's developers and/or publishers.
 
 Any opinions posted here are my own and not representative of any of my employers (whether past, future, and/or present) or clients.

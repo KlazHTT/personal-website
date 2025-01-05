@@ -10,9 +10,9 @@ make_discoverable: false
 
 > *A neon-noir story in a rain-drenched cyberpunk metropolis. It’s your first night on the job working for the Cloudpunk delivery service. Two rules: Don’t miss a delivery and don’t ask what’s in the package.*
 
-![](/images/cloudpunk_01.png)
-
 *Cloudpunk* delivers the experience of what it is like to be a delivery driver cruising from point A to point B in a neon-lit cyberpunk city filled with skyscrapers while driving a flying vehicle and listening to relaxing music.
+
+![](/images/cloudpunk_01.png)
 
 Frequently, there are scripted conversations between characters that flesh out the realities of living in the city and the daily lives of its inhabitants, which were engaging enough for me to look forward to hearing the ringing tone of the communication system and being able to learn more. Discussions about class systems, ethics about using AI, what is considered a life form, and corporate dystopian control were woven into the narrative as you deliver packages and taxi people to their destinations.
 

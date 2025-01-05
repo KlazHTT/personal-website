@@ -29,9 +29,8 @@ make_discoverable: false
 - To detox myself from instant gratification.
 
 ## Previous Intentions
-- 2024 - Shifting Priorities
-- 2023 - Mindfulness
-- 2022 - Building Confidence
-- 2021 - Personal Finance
-- 2020 - Metamorphosis
-
+- 2024 — Shifting Priorities
+- 2023 — Mindfulness
+- 2022 — Building Confidence
+- 2021 — Personal Finance
+- 2020 — Metamorphosis

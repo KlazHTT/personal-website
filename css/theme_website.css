@@ -1,0 +1,177 @@
+:root {
+  --width: 720px;
+  --font-family: Verdana, sans-serif;
+  --font-scale: 1em;
+  --bg-100:#e6e6e6;
+  --bg-200:#dcdcdc;
+  --bg-300:#b4b4b4;
+  --text-100:#000000;
+  --text-200:#2c2c2c;
+  --accent-100:#666666;
+  --accent-200:#f7f7f7;
+  --primary-100:#1994ff;
+  --primary-200:#0079e0;
+  --primary-300:#003e99;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-100:#1a1a1a;
+    --bg-200:#292929;
+    --bg-300:#404040;
+    --text-100:#ffffff;
+    --text-200:#e0e0e0;
+    --accent-100:#4d4d4d;
+    --accent-200:#d9d9d9;
+    --primary-100:#aad372;
+    --primary-200:#8cb556;
+    --primary-300:#4a7315;
+  }
+}
+ 
+
+body {
+  margin: 0 auto;
+  padding: 0 16px;
+  max-width: var(--width);
+  background-color: var(--bg-100);
+  font-family: var(--font-family);
+  font-size: var(--font-scale);
+  line-height: 1.5;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  color: var(--text-100);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family);
+  color: var(--text-200);
+}
+
+a {
+  color: var(--primary-200);
+  text-decoration: underline; 
+  text-decoration-color: var(--primary-300);
+}
+a:hover {
+  color: var(--primary-200);
+  text-decoration: underline; 
+  text-decoration-color: var(--primary-100);
+}
+
+strong, b {
+  color: var(--text-200);
+}
+
+time {
+  font-family: monospace;
+  font-size: 15px;
+  font-style: normal;
+  color: var(--text-200);
+}
+
+blockquote {
+  padding: 2px 8px 2px 16px;
+  border-top: 1px solid var(--accent-100);
+  border-right: 1px solid var(--accent-100);
+  border-bottom: 1px solid var(--accent-100);
+  border-left: 8px solid var(--primary-100);
+  background: linear-gradient(to left top, var(--bg-300), var(--bg-100));
+  color: var(--text-100);
+  font-style: italic;
+}
+
+code {
+  font-family: monospace;
+}
+
+img {
+  max-width: 100%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid var(--accent-100);
+  background-color: var(--bg-200);
+}
+th {
+  padding: 2px 8px;
+  border-right: 1px solid var(--accent-100);
+  border-bottom: 1px solid var(--accent-100); 
+  background-color: var(--bg-300);
+}
+td {
+  padding: 2px 8px;
+  border-right: 1px solid var(--accent-100);
+}
+th:last-child,
+td:last-child { 
+  border-right: none; 
+}
+
+header {
+  margin: 2rem 0;
+  padding: 0;
+  border-bottom: 1px dotted var(--accent-100);
+}
+
+.title {
+  text-decoration: none;
+}
+.title:hover {
+  text-decoration: none;
+}
+.title h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+}
+.title h1:hover {
+  color: var(--primary-100);
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+}
+nav p {
+  margin: 8px 0 2rem;
+  padding: 0;
+}
+nav a {
+  margin-right: 8px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: none;
+}
+
+main {
+  margin: 2rem 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+footer {
+  margin: 2rem 0 8rem;
+  padding: 0;
+  border-top: 1px dotted var(--accent-100);
+  font-size: .875em;
+  text-align: center;
+}
+footer a,
+footer a:hover {
+  text-decoration: none;
+}
+
+ul.blog-posts {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+ul.blog-posts li {
+  padding: 2px 0;
+}
+ul.blog-posts li span {
+  padding-right: 8px;
+}

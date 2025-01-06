@@ -14,6 +14,8 @@ I am interested in the intersections between productivity, knowledge, and techno
 
 Sometimes I enjoy writing and sharing my thoughts and experiences.
 
+You may contact me by [email](mailto:hello@haothitran.com) or through this [contact](https://letterbird.co/haothitran) form.
+
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/haothitran/) — Professional profile for work history and networking.

@@ -8,27 +8,24 @@
   --text-100:#000000;
   --text-200:#2c2c2c;
   --accent-100:#666666;
-  --accent-200:#f7f7f7;
   --primary-100:#1994ff;
-  --primary-200:#0079e0;
-  --primary-300:#003e99;
+  --primary-200:#003e99;
+  --contrast-100:#ff8419;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-100:#1a1a1a;
-    --bg-200:#292929;
-    --bg-300:#404040;
-    --text-100:#ffffff;
-    --text-200:#e0e0e0;
-    --accent-100:#4d4d4d;
-    --accent-200:#d9d9d9;
-    --primary-100:#aad372;
-    --primary-200:#8cb556;
-    --primary-300:#4a7315;
+    --bg-100: #191919;
+    --bg-200: #1f1f1f;
+    --bg-300: #3d3d3d;
+    --text-100: #fdfdfd;
+    --text-200: #e2e2e2;
+    --accent-100: #454545;
+    --primary-100: #008866;
+    --primary-200: #00F0B4;
+    --contrast-100: #da0037;
   }
 }
  
-
 body {
   margin: 0 auto;
   padding: 0 16px;
@@ -50,16 +47,27 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: var(--primary-200);
   text-decoration: underline; 
-  text-decoration-color: var(--primary-300);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  text-decoration-style: dotted;
+  text-decoration-color: var(--primary-100);
 }
 a:hover {
-  color: var(--primary-200);
   text-decoration: underline; 
-  text-decoration-color: var(--primary-100);
+  text-decoration-style: solid;
+  text-decoration-color: var(--contrast-100);
 }
 
 strong, b {
   color: var(--text-200);
+}
+
+code {
+  padding: 2px 8px;
+  border-radius: 3px;
+  background-color: var(--bg-300);
+  font-family: monospace;
+  color: var(--primary-200);
 }
 
 time {
@@ -70,22 +78,28 @@ time {
 }
 
 blockquote {
-  padding: 2px 8px 2px 16px;
-  border-top: 1px solid var(--accent-100);
-  border-right: 1px solid var(--accent-100);
-  border-bottom: 1px solid var(--accent-100);
-  border-left: 8px solid var(--primary-100);
-  background: linear-gradient(to left top, var(--bg-300), var(--bg-100));
+  padding: 2px 16px;
+  border-left: 8px solid var(--contrast-100);
+  background: linear-gradient(to left top, var(--bg-300), 5%, var(--bg-200));
   color: var(--text-100);
   font-style: italic;
 }
 
-code {
+.highlight {
+  margin-left: 16px;
+  padding: 2px 16px;
+  border-left: 8px solid var(--primary-100);
+  background: linear-gradient(to left top, var(--bg-100), 20%, var(--bg-200));
   font-family: monospace;
+  font-size: 14px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  overflow-x: auto;
 }
 
 img {
-  max-width: 100%;
+  max-width: 120%;
+  margin-left: -10%;
 }
 
 table {
@@ -97,7 +111,7 @@ table {
 th {
   padding: 2px 8px;
   border-right: 1px solid var(--accent-100);
-  border-bottom: 1px solid var(--accent-100); 
+  border-bottom: 4px solid var(--contrast-100); 
   background-color: var(--bg-300);
 }
 td {
@@ -127,7 +141,7 @@ header {
   font-size: 1.5em;
 }
 .title h1:hover {
-  color: var(--primary-100);
+  color: var(--contrast-100);
 }
 
 nav {
@@ -143,7 +157,9 @@ nav a {
   text-decoration: none;
 }
 nav a:hover {
-  text-decoration: none;
+  text-decoration: underline; 
+  text-decoration-style: solid;
+  text-decoration-color: var(--contrast-100);
 }
 
 main {
@@ -174,4 +190,14 @@ ul.blog-posts li {
 }
 ul.blog-posts li span {
   padding-right: 8px;
+}
+
+.tags a {
+  border: 1px dotted var(--primary-100);
+  padding: 2px 8px;
+  text-decoration: none;
+}
+.tags a:hover {
+  border: 1px solid var(--contrast-100);
+  text-decoration: none;
 }

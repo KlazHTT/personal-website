@@ -10,6 +10,36 @@ Here is a list of notable equipment and tools I use. The purpose of this list is
 
 Last updated: {{ post_last_modified }} ago
 
+## At the Desk
+
+### Workspace
+- **Desk**: Custom-built sit-stand desk (*Built in 2022*)
+  - Tabletop: Custom walnut tabletop (54" length x 30" width x 1-1/2" thick with rounded corners) from [Atelier East-End Mtl](https://eastendmtl.com/)
+  - Legs: Apex Pro from [Deskhaus](https://desk.haus/)
+- **Chair**: Herman Miller Aeron (*Purchased in 2023*)
+  - Add-on: Headrest for Aeron Chair from [Atlas Headrest](https://atlasheadrest.com/)
+  - If the Aeron did not exist, I would have purchased the Embody.
+
+### Stationery
+- **Fountain pens:**
+  - LAMY Safari (Matte Black, EF)
+  - Montblanc Meisterstück LeGrand (Platinum, EF)
+  - Pilot Decimo (Dark Grey, EF)
+  - Pilot Vanishing Point (Matte Black, F)
+  - Pilot Custom 823 (Amber Brown, F)
+  - Sailor Pro Gear (Graphite Lighthouse, MF)
+  - Sailor Pro Gear (Knight to E4, MF)
+  - Sailor Pro Gear Realo (Black, F)
+  - TWISBI Diamond 580ALR (Nickel, EF)
+- **Fountain pen ink**:
+  - Platinum Carbon Black
+  - Sailor Sei-boku
+- **Notebooks/paper**:
+  - Journaling in a Midori MD notebook (A5, dot grid).
+  - Planning in a Plotter ring binder (Liscio black, personal/bible-sized, various paper).
+  - Logging books/games in a Traveler's notebook (standard-sized, camel cover).
+  - Carrying around a Traveler's notebook (passport-sized, brown cover) as a pocket notebook. Useful!
+
 ## Hardware
 
 ### Devices  
@@ -20,15 +50,7 @@ Last updated: {{ post_last_modified }} ago
 - **Phone**: iPhone 11 (*Purchased in 2019*)
 - **E-reader**: Kobo Clara (*Purchased in 2023*)
 
-### Workspace
-- **Desk**: Custom-built sit-stand desk (*Built in 2022*)
-  - Tabletop: Custom walnut tabletop (54" length x 30" width x 1-1/2" thick with rounded corners) from [Atelier East-End Mtl](https://eastendmtl.com/)
-  - Legs: Apex Pro from [Deskhaus](https://desk.haus/)
-- **Chair**: Herman Miller Aeron (*Purchased in 2023*)
-  - Add-on: Headrest for Aeron Chair from [Atlas Headrest](https://atlasheadrest.com/)
-  - If the Aeron did not exist, I would have purchased the Embody.
-
-### Peripherals
+### Computer Peripherals
 - **Monitors**: Using a stacked dual-screen setup
   - 34" 21:9 IPS 180Hz (*Purchased in 2022*)
   - 24" 16:9 IPS 60Hz (*Purchased in 2020*)
@@ -106,19 +128,22 @@ Here are online subscriptions and services that I pay for:
 | Bitwarden                   |      $10.00 |       $0.83 |       $1.19 |
 | Hover (domain names)        |      $55.33 |       $4.61 |       $6.63 |
 | Bear (blogging platform)    |      $49.00 |       $4.08 |       $5.89 |
-| PikaPods (hosting web apps) |      $57.72 |       $4.81 |       $6.95 |
+| PikaPods (hosting web apps) |      $72.06 |       $6.05 |       $8.66 |
 | Proton (Mail Plus)          |      $47.99 |       $3.99 |       $5.74 |
 | Discord (Nitro Basic)       |      $33.89 |       $2.82 |       $4.05 |
 | Spotify (Duo)               |     $149.40 |      $12.45 |      $17.89 |
 | Video streaming (various)   |     $166.92 |      $13.91 |      $20.00 |
-| Gaming services             |     $166.92 |      $13.91 |      $20.00 |
-| **Totals**                  | **$737.17** |  **$61.41** |  **$88.34** |
+| Gaming subscriptions        |     $166.92 |      $13.91 |      $20.00 |
+| **Totals**                  | **$752.05** |  **$62.65** |  **$90.05** |
 
 For PikaPods, I have a couple web apps deployed using their managed services:
 - [Actual](https://actualbudget.org/) for personal budgeting using the envelop method.
 - [CommaFeed](https://github.com/Athou/commafeed/) for reading RSS feeds.
 - [Gitea](https://gitea.com/) for my personal project repositories.
+- [Umami](https://umami.is/) for website analytics.
 
 For video streaming, I rotate through a number of services and only subscribe for a month at a time to watch what I want. In some months, I don't have an active subscription running, so this number is a little inflated.
+
+For gaming subscriptions, similar to above idea.
 
 Overall, I am quite happy with how much I am spending on my online subscriptions. It could be better, but I am satisfied that it is below $100 CAD per month.

@@ -8,6 +8,8 @@ make_discoverable: false
 
 ![](/images/mass-effect_title.png)
 
+> One person is all that stands between humanity and the greatest threat it’s ever faced. 
+
 I have spent most of the past year playing through the *Mass Effect* trilogy. I had grabbed the Legendary Edition when it was on sale a while back, saving it for when I was itching to play a single-player story-driven game. When I was feeling it, I knew it was time. I didn't know much about the series going into it, except that Commander Shepard was a badass. Little did I know I was about to experience one of the best science-fiction masterpieces ever created.
 
 ![](/images/mass-effect_01.png)
@@ -63,7 +65,7 @@ Some particular highlights for me:
 
 In the end, I felt like the choices were what I expected. Some themes were touched on constantly throughout the series, which foreshadow the possible choices for the final mission. It wasn't a surprise.
 
-I chose the destroy ending because my Shepard's primary objective was to destroy the Reapers -- and that is what she did.
+I chose the destroy ending because my Shepard's primary objective was to destroy the Reapers -- and that is what she did. Mission complete..
 
 This was a journey that I would gladly take on again. 
 

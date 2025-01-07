@@ -85,6 +85,16 @@ blockquote {
   font-style: italic;
 }
 
+hr {
+  display: block;
+  margin: 2rem 0;
+  height: 1px;
+  border: none;
+  background: var(--accent-100);
+  opacity: .25;
+  font-size: 0;
+}
+
 .highlight {
   margin-left: 16px;
   padding: 2px 16px;
@@ -192,6 +202,9 @@ ul.blog-posts li span {
   padding-right: 8px;
 }
 
+.tags {
+  margin-top: 2rem;
+}
 .tags a {
   border: 1px dotted var(--primary-100);
   padding: 2px 8px;

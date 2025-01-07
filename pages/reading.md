@@ -33,8 +33,8 @@ Books listed here do not necessarily reflect my personal views or whether I woul
 
 ## 2023
 - **Deltora Quest** series (2000-2005), Emily Rodda
-  - My favourite fantasy series from childhood. Still an enjoyable read as an adult.
-  - Surprisingly dark and gruesome for a series targeted towards children.
+  - *My favourite fantasy series from childhood. Still an enjoyable read as an adult.*
+  - *Surprisingly dark and gruesome for a series targeted towards children.*
   - Deltora Quest
     - The Forests of Silence
     - The Lake of Tears

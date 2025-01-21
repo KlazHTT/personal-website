@@ -12,13 +12,16 @@ Here is a list of books I've read since 2023 which is when I started to diligent
 
 Books listed here do not necessarily reflect my personal views or whether I would recommend someone read them.
 
+## 2025
+- **Cities of the Plain** (1998), Cormac McCarthy
+
 ## 2024
 - **The Psychology of Money** (2020), Morgan Housel
 - **The Richest Man in Babylon** (1926), George S. Clason
 - **Building a Second Brain** (2022), Tiago Forte
 - **The Coddling of the American Mind** (2018), Greg Lukianoff, Jonathan Haidt
 - **Never Let Me Go** (2005), Kazuo Ishiguro
-- **Blindness** (1995), José Saramago with translation (1997) by Giovanni Pontiero
+- **Blindness** (1995), José Saramago with translation (1997) by Giovanni Pontiero 
 - **To Be Taught, If Fortunate** (2019), Becky Chambers
 - **Legends & Lattes** (2022), Travis Baldree
 - **Bookshops & Bonedust** (2023), Travis Baldree
@@ -29,7 +32,6 @@ Books listed here do not necessarily reflect my personal views or whether I woul
 - **The Things They Carried** (1990), Tim O'Brien
 - **All the Pretty Horses** (1992), Cormac McCarthy
 - **The Crossing** (1994), Cormac McCarthy
-- **Cities of the Plain** (1998), Cormac McCarthy
 
 ## 2023
 - **Deltora Quest** series (2000-2005), Emily Rodda

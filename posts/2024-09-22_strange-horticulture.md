@@ -6,7 +6,7 @@ tags: gaming
 make_discoverable: false
 ---
 
-![](/images/strange-horticulture_title.png)
+![](/images/strange-horticulture_00.png)
 
 > *An occult puzzle game in which you play as the proprietor of a local plant store. Find and identify new plants, pet your cat, speak to a coven, or join a cult. Use your collection of powerful plants to influence the story and unravel Undermere’s dark mysteries.*
 

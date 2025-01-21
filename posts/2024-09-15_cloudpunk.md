@@ -6,7 +6,7 @@ tags: gaming
 make_discoverable: false
 ---
 
-![](/images/cloudpunk_title.png)
+![](/images/cloudpunk_00.png)
 
 > *A neon-noir story in a rain-drenched cyberpunk metropolis. It’s your first night on the job working for the Cloudpunk delivery service. Two rules: Don’t miss a delivery and don’t ask what’s in the package.*
 

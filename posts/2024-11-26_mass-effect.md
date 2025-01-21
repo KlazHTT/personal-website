@@ -6,7 +6,7 @@ tags: gaming
 make_discoverable: false
 ---
 
-![](/images/mass-effect_title.png)
+![](/images/mass-effect_00.png)
 
 > One person is all that stands between humanity and the greatest threat it’s ever faced. 
 

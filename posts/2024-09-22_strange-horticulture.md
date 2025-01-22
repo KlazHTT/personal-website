@@ -1,5 +1,5 @@
 ---
-title: Strange Horitculture
+title: Strange Horticulture
 link: strange-horticulture
 published_date: 2024-09-22 08:44
 tags: gaming

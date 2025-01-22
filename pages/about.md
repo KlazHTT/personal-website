@@ -29,7 +29,6 @@ This URL has been my online home for many years and acts as a central hub for my
 
 Some details:
 - Hosted on [Bear](https://bearblog.dev/) — A privacy-first, no-nonsense, super-fast blogging platform.
-- Logo designed by [AIRA Studio](https://www.linkedin.com/in/aira-studio-902a37243/). — Fancy, huh?
 
 Some disclaimers:
 - Images and screenshots for games were either taken by myself or from media press kits put together by the game's developers and/or publishers.

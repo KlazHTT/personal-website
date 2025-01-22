@@ -13,7 +13,7 @@ Here is a list of games that I've played. See an alternative [kanban board view]
 Games listed here do not necessarily reflect my personal views or whether I would recommend someone play them — because I've played a bunch of mediocre games.
 
 ## 2025
-- **Hogwarts Legacy** (2023, PC) — *I wished student life was the focus of this game. I was not a fan of spending most of my time running around the Scottish Highlands playing mini-games while being both a teenage hero and menance at the same time.*
+- **Hogwarts Legacy** (2023, PC) — *I wish student life was the primary focus of this game. I was not a fan of spending most of my time running around the Scottish Highlands playing mini-games while being both a teenage hero and menance at the same time.*
 - **Underground Blossom** (2023, PC)
 
 ## 2024

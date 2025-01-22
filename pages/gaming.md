@@ -12,6 +12,10 @@ Here is a list of games that I've played. See an alternative [kanban board view]
 
 Games listed here do not necessarily reflect my personal views or whether I would recommend someone play them — because I've played a bunch of mediocre games.
 
+## 2025
+- **Hogwarts Legacy** (2023, PC) — *I wished student life was the focus of this game. I was not a fan of spending most of my time running around the Scottish Highlands playing mini-games while being both a teenage hero and menance at the same time.*
+- **Underground Blossom** (2023, PC)
+
 ## 2024
 - **Deponia** (2012, PC) — *Revisit.*
 - **Slay the Spire** (2019, PC / Steam Deck)
@@ -41,11 +45,11 @@ Games listed here do not necessarily reflect my personal views or whether I woul
 - **A Bird Story** (2014, PC)
 - **Final Fantasy XIV: Dawntrail** (2024, PC)
 - **War of the Overworld** (2015, PC) — *Abandoned. Requires very high micro-management, which is fine, but the UI is awful to work with.*
-- **SUMMERHOUSE** (2024, PC
-- [Cloudpunk](https://haothitran.com/cloudpunk/) (2020, PC
+- **SUMMERHOUSE** (2024, PC)
+- [Cloudpunk](https://haothitran.com/cloudpunk/) (2020, PC)
 - [Mass Effect 3: Legendary Edition](https://haothitran.com/mass-effect/) (2021, PC)
-- **Wayfinder** (2024, PC
-- **It Takes Two** (2021, PC
+- **Wayfinder** (2024, PC)
+- **It Takes Two** (2021, PC)
 - **Mass Effect Andromeda** (2017, PC)
 
 ## 2023

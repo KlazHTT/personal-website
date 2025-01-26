@@ -50,7 +50,7 @@ Games listed here do not necessarily reflect my personal views or whether I woul
 - [Mass Effect 3: Legendary Edition](https://haothitran.com/mass-effect/) (2021, PC)
 - **Wayfinder** (2024, PC)
 - **It Takes Two** (2021, PC)
-- **Mass Effect Andromeda** (2017, PC)
+- [Mass Effect: Andromeda](https://haothitran.com/mass-effect-andromeda/) (2017, PC)
 
 ## 2023
 - **PlateUp!** (2022, PC)

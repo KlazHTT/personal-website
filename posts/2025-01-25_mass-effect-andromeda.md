@@ -7,6 +7,8 @@ tags: gaming
 
 ![](/images/mass-effect-andromeda_00.png)
 
+> This is the story of humanity’s next chapter.
+
 When I first launched into *Mass Effect: Andromeda* (*MEA*), I was immediately hooked by the story premise of exploring a new galaxy. Imagine signing up for a one-way journey 2.5 million light-years away to another galaxy, which will take over 600 hundred years to traverse during cryogenic sleep. What an insane idea. You would be taking a huge leap of faith and trusting in the little data that was scraped together from light-years away which would already be outdated by the time you arrive at your destination -- which, at that distance, would be like shooting a bullet into the dark and hoping you will hit your target. The Andromeda Initiative was a bold and daring mission that hooked me into the game and story right away.
 
 From the outset, the situation is already looking dire with our human starship encountering a dark energy space cloud phenomenon when entering into Andromeda. Our starship is seriously damaged. People are waking up disoriented into a crisis situation. Contact cannot be established with the other starships commanded by other Milky Way species. Furthermore, contact with the Nexus mothership is also failing to establish. Your sibling is in a coma from having their waking process interrupted. Your potential new home planet is not inhabitable. What to do? It is not like we can beam ourselves back home to the Milky Way.

@@ -202,6 +202,10 @@ ul.blog-posts li span {
   padding-right: 8px;
 }
 
+.icon-feed {
+  margin-left: .5rem;
+}
+
 .tags {
   margin-top: 2rem;
 }

@@ -15,6 +15,7 @@ Games listed here do not necessarily reflect my personal views or whether I woul
 ## 2025
 - **Hogwarts Legacy** (2023, PC) — *I wish student life was the primary focus of this game. I was not a fan of spending most of my time running around the Scottish Highlands playing mini-games while being both a teenage hero and menance at the same time.*
 - **Underground Blossom** (2023, PC)
+- **Inscryption** (2021, PC)
 
 ## 2024
 - **Deponia** (2012, PC) — *Revisit.*

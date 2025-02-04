@@ -14,6 +14,7 @@ Books listed here do not necessarily reflect my personal views or whether I woul
 
 ## 2025
 - **Cities of the Plain** (1998), Cormac McCarthy
+- **The Wealthy Barber Returns** (2011), David Chilton
 
 ## 2024
 - **The Psychology of Money** (2020), Morgan Housel

@@ -36,9 +36,16 @@ Last updated: {{ post_last_modified }} ago
   - Sailor Sei-boku
 - **Notebooks/paper**:
   - Journaling in a Midori MD notebook (A5, dot grid).
-  - Planning in a Plotter ring binder (Liscio black, personal/bible-sized, various paper).
+  - Productivity system in an Everbook system (Murdy Creative Co., Americano, A5).
   - Logging books/games in a Traveler's notebook (standard-sized, camel cover).
   - Carrying around a Traveler's notebook (passport-sized, brown cover) as a pocket notebook. Useful!
+
+## Carry
+- Backpack: Bellroy Transit Workpack, 20L (*Purchased in 2022*)
+  - I have the V1. 
+  - I think the V2 is a downgrade due to the removal of the quick access side pockets.
+- Sling: Heimplanet Transit Line Sling, 2L (*Purchased in 2022*)
+  - Convenient bag to carry my essentials during the warmer months when I don't wear a jacket with pockets.
 
 ## Hardware
 
@@ -101,9 +108,9 @@ Last updated: {{ post_last_modified }} ago
   - Alternatives I've tried: Obsidian, Logseq, Standard Notes, BookStack, Joblin, Notion, Simple Note, TiddlyWiki, GitBook, Notational Velocity, Evernote, OneNote, etc.
 - **Kanban**: Trello
   - Currently considering: [WeKan](https://wekan.github.io/), [Planka](https://planka.app/)
-- **Budgeting**: [Actual](https://actualbudget.org/)
+- **Budgeting**: [YNAB](https://www.ynab.com/)
   - I like budgeting using the envelope system.
-  - Alternatives I've tried: You Need A Budget
+  - Alternatives I've tried: [Actual](https://actualbudget.org/), [Lunch Money](https://lunchmoney.app/)
 
 ### Development
 - **Font**: Hack Nerd Font
@@ -128,16 +135,16 @@ Here are online subscriptions and services that I pay for:
 | Bitwarden                   |      $10.00 |       $0.83 |       $1.19 |
 | Hover (domain names)        |      $55.33 |       $4.61 |       $6.63 |
 | Bear (blogging platform)    |      $49.00 |       $4.08 |       $5.89 |
-| PikaPods (hosting web apps) |      $72.06 |       $6.05 |       $8.66 |
+| PikaPods (hosting web apps) |      $60.36 |       $5.03 |       $7.19 |
 | Proton (Mail Plus)          |      $47.99 |       $3.99 |       $5.74 |
 | Discord (Nitro Basic)       |      $33.89 |       $2.82 |       $4.05 |
+| YNAB (budgeting)            |     $109.00 |       $9.08 |      $12.98 |
 | Spotify (Duo)               |     $149.40 |      $12.45 |      $17.89 |
 | Video streaming (various)   |     $166.92 |      $13.91 |      $20.00 |
 | Gaming subscriptions        |     $166.92 |      $13.91 |      $20.00 |
-| **Totals**                  | **$752.05** |  **$62.65** |  **$90.05** |
+| **Totals**                  | **$848.81** |  **$70.71** |  **$101.56** |
 
 For PikaPods, I have a couple web apps deployed using their managed services:
-- [Actual](https://actualbudget.org/) for personal budgeting using the envelop method.
 - [CommaFeed](https://github.com/Athou/commafeed/) for reading RSS feeds.
 - [Gitea](https://gitea.com/) for my personal project repositories.
 - [Umami](https://umami.is/) for website analytics.
@@ -146,4 +153,4 @@ For video streaming, I rotate through a number of services and only subscribe fo
 
 For gaming subscriptions, similar to above idea.
 
-Overall, I am quite happy with how much I am spending on my online subscriptions. It could be better, but I am satisfied that it is below $100 CAD per month.
+Overall, I am quite happy with how much I am spending on my online subscriptions. It could be better, but I am satisfied that it is about $100 CAD per month.

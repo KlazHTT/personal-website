@@ -16,6 +16,8 @@ Games listed here do not necessarily reflect my personal views or whether I woul
 - **Hogwarts Legacy** (2023, PC)
 - **Underground Blossom** (2023, PC)
 - **Inscryption** (2021, PC)
+- **Plague Inc: Evolved** (2014, PC)
+- **DREDGE** (2023, PC) - *Revisit.*
 
 ## 2024
 - **Deponia** (2012, PC) — *Revisit.*
@@ -72,7 +74,7 @@ Games listed here do not necessarily reflect my personal views or whether I woul
 - **Baldur's Gate 3** (2023, PC)
 - **The Repair House** (2023, PC)
 - **VVVVVV** (2010, PC) — *Abandoned. Veni Vidi Vici.*
-
+- **DREDGE** (2023, PC)
 
 ## 2022
 - **Superflight** (2017, PC)

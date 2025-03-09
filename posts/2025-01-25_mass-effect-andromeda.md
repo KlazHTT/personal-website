@@ -3,6 +3,7 @@ title: Mass Effect: Andromeda
 link: mass-effect-andromeda
 published_date: 2025-01-25 23:56
 tags: gaming 
+make_discoverable: true
 ---
 
 ![](/images/mass-effect-andromeda_00.png)

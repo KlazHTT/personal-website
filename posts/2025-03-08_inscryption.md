@@ -3,6 +3,7 @@ title: Inscryption
 link: inscryption
 published_date: 2025-03-08 20:44
 tags: gaming 
+make_discoverable: true
 ---
 
 ![](/images/inscryption_00.png)
@@ -34,7 +35,7 @@ Also, don't be afraid to lose. When all your lives are extinguished, you have th
 
 ![](/images/inscryption_03.png)
 
-I thought that Inscryption's atmosphere really drives the entire play experience. All elements are cohesive and resonate wonderfully with each other which makes for a gripping game. The art direction is fantastic. The sound effects are eerie and disturbing. It nails down the omnious vibe.
+I thought that *Inscryption*'s atmosphere really drives the entire play experience. All elements are cohesive and resonate wonderfully with each other which makes for a gripping game. The art direction is fantastic. The sound effects are eerie and disturbing. It nails down the omnious vibe.
 
 I thought that the puzzles around the cabin were quite well done. They were not so obscure that you had to resort to looking up solutions, but not so obvious that it felt too easy. 
 

@@ -17,6 +17,8 @@ Books listed here do not necessarily reflect my personal views or whether I woul
 - **The Wealthy Barber Returns** (2011), David Chilton
 - **I Will Teach You to Be Rich** (2019), Ramit Sethi
 - **Misery** (1987), Stephen King
+- **On Writing: A Memoir of the Craft** (2000), Stephen King
+- **A Psalm for the Wild-Built** (2021), Becky Chambers
 
 ## 2024
 - **The Psychology of Money** (2020), Morgan Housel

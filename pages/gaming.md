@@ -17,6 +17,8 @@ Games listed here do not necessarily reflect my personal views or whether I woul
 - **Underground Blossom** (2023, PC)
 - **Inscryption** (2021, PC)
 - **Plague Inc: Evolved** (2014, PC)
+- **Rusty's Retirement** (2024, PC)
+- **Split Fiction** (2025, PC)
 - **DREDGE** (2023, PC) - *Revisit.*
 
 ## 2024

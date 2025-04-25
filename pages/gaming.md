@@ -19,8 +19,10 @@ Games listed here do not necessarily reflect my personal views or whether I woul
 - **Plague Inc: Evolved** (2014, PC)
 - **Rusty's Retirement** (2024, PC)
 - **Split Fiction** (2025, PC)
-- **DREDGE** (2023, PC) - *Revisit.*
-
+- **DREDGE** (2023, PC) — *Revisit.*
+- **Baldur's Gate 3** (2023, PC) — *Revisit.*
+- **Blue Prince** (2025, PC)
+  
 ## 2024
 - **Deponia** (2012, PC) — *Revisit.*
 - **Slay the Spire** (2019, PC / Steam Deck)

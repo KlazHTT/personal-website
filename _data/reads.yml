@@ -32,6 +32,7 @@
       author: Anthony Doerr
       published: 1914
       status: Completed
+      highlight: Y
     - title: Midnight's Children
       author: Salman Rushdie
       published: 1981
@@ -102,6 +103,7 @@
       author: John Williams
       published: 1965
       status: Completed
+      highlight: Y
     - title: On Earth We're Briefly Gorgeous
       author: Ocean Vuong
       published: 2019
@@ -130,10 +132,12 @@
       author: José Saramago
       published: 1995
       status: Completed
+      highlight: Y
     - title: Never Let Me Go
       author: Kazuo Ishiguro
       published: 2005
       status: Completed
+      highlight: Y
     - title: The Coddling of the American Mind
       author: Greg Lukianoff, Jonathan Haidt
       published: 2018
@@ -150,6 +154,7 @@
       author: Morgan Housel
       published: 2020
       status: Completed
+      highlight: Y
 - year: 2023
   reads:
     - title: The Bullet Journal Method
@@ -172,6 +177,7 @@
       author: James Clear
       published: 2018
       status: Completed
+      highlight: Y
     - title: The Sister of the South
       author: Emily Rodda
       published: 2004

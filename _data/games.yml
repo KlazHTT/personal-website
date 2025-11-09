@@ -1,0 +1,999 @@
+- year: Currently
+  games:
+    - title: Hand of Fate 2
+      developer: Defiant Development
+      released: 2017
+      status:
+    - title: Proverbs
+      developer: Mark Ffrench
+      released: 2024
+      status:
+    - title: Two Point Museum
+      developer: Two Point Studios
+      released: 2025
+      status:
+- year: 2025
+  games:
+    - title: PlateUp!
+      developer: It's happening
+      released: 2022
+      status: Replay
+    - title: PowerWash Simulator
+      developer: FuturLab
+      released: 2022
+      status: Completed
+    - title: GRIS
+      developer: Nomada Studio
+      released: 2018
+      status: Completed
+    - title: "Clair Obscur: Expedition 33"
+      developer: Sandfall Interactive
+      released: 2025
+      status: Completed
+      highlight: Y
+    - title: Borderlands 4
+      developer: Gearbox Software
+      released: 2025
+      status: Completed
+    - title: "Duck Detective: The Secret Salami"
+      developer: Happy Broccoli Games
+      released: 2024
+      status: Completed
+    - title: "The Witcher 3: Wild Hunt"
+      developer: CD PROJEKT RED
+      released: 2015
+      status: Completed
+      highlight: Y
+    - title: "The Witcher 2: Assassins of Kings"
+      developer: CD PROJEKT RED
+      released: 2011
+      status: Abandoned
+    - title: Hades
+      developer: Supergiant Games
+      released: 2020
+      status: Replay
+    - title: Urban Jungle
+      developer: Kylyk Games
+      released: 2025
+      status: Completed
+    - title: Let's School
+      developer: Pathea Games
+      released: 2023
+      status: Abandoned
+    - title: Citizen Sleeper
+      developer: Jump Over The Age
+      released: 2022
+      status: Completed
+      highlight: Y
+    - title: Garden Galaxy
+      developer: Anneka Tran
+      released: 2022
+      status: Completed
+    - title: The Witcher (Enhanced Edition Director's Cut)
+      developer: CD PROJEKT RED
+      released: 2008
+      status: Completed
+    - title: Killer Frequency
+      developer: Team17
+      released: 2023
+      status: Completed
+    - title: Stray Cats in Cozy Town
+      developer: Devcats
+      released: 2024
+      status: Completed
+    - title: Cat Quest
+      developer: The Gentlebros
+      released: 2017
+      status: Completed
+    - title: Serial Cleaner
+      developer: Draw Distance
+      released: 2017
+      status: Completed
+    - title: Outer Wilds
+      developer: Mobius Digital
+      released: 2020
+      status: Abandoned
+    - title: Blue Prince
+      developer: Dogubomb
+      released: 2025
+      status: Completed
+    - title: Baldur's Gate 3
+      developer: Larian Studios
+      released: 2023
+      status: Replay
+      highlight: Y
+    - title: DREDGE
+      developer: Black Salt Games
+      released: 2023
+      status: Replay
+    - title: Split Fiction
+      developer: Hazelight Studios
+      released: 2025
+      status: Completed
+    - title: Rusty's Retirement
+      developer: Mister Morris Games
+      released: 2024
+      status: Completed
+    - title: "Plague Inc: Evolved"
+      developer: Ndemic Creations
+      released: 2016
+      status: Completed
+    - title: Inscryption
+      developer: Daniel Mullins Games
+      released: 2021
+      status: Completed
+    - title: Underground Blossom
+      developer: Rusty Lake
+      released: 2023
+      status: Completed
+    - title: Hogwarts Legacy
+      developer: Avalanche Software
+      released: 2023
+      status: Completed
+- year: 2024
+  games:
+    - title: "Mass Effect: Andromeda"
+      developer: BioWare
+      released: 2017
+      status: Completed
+    - title: It Takes Two
+      developer: Hazelight Studios
+      released: 2021
+      status: Completed
+    - title: Wayfinder
+      developer: Airship Syndicate
+      released: 2024
+      status: Completed
+    - title: "Mass Effect 3 (Legendary Edition)"
+      developer: BioWare
+      released: 2021
+      status: Completed
+      highlight: Y
+    - title: Cloudpunk
+      developer: ION LANDS
+      released: 2020
+      status: Completed
+      highlight: Y
+    - title: SUMMERHOUSE
+      developer: Friedemann
+      released: 2024
+      status: Completed
+    - title: War for the Overworld
+      developer: Brightrock Games
+      released: 2015
+      status: Abandoned
+    - title: A Bird Story
+      developer: Freebird Games
+      released: 2014
+      status: Completed
+    - title: An Arcade Full of Cats
+      developer: Devcats
+      released: 2023
+      status: Completed
+    - title: Cats Hidden in Paris
+      developer: Travellin Cats
+      released: 2023
+      status: Completed
+    - title: "Doors: Paradox"
+      developer: Big Loop Studios
+      released: 2022
+      status: Completed
+    - title: Two Point Campus
+      developer: Two Point Studios
+      released: 2022
+      status: Abandoned
+    - title: "Final Fantasy XV: Dawntrail"
+      developer: Square Enix Creative Studio III
+      released: 2024
+      status: Completed
+    - title: A Building Full of Cats
+      developer: Devcats
+      released: 2022
+      status: Completed
+    - title: Touhou Mystia's Izakaya
+      developer: 二色幽紫蝶, Re零同人社
+      released: 2021
+      status: Completed
+    - title: Tower of Time
+      developer: Event Horizon
+      released: 2018
+      status: Completed
+    - title: "Diablo III (Season 31)"
+      developer: Blizzard Entertainment
+      released: 2024
+      status: Completed
+    - title: Strange Horticulture
+      developer: Bad Viking
+      released: 2022
+      status: Completed
+    - title: Into the Breach
+      developer: Subset Games6
+      released: 2018
+      status: Completed
+    - title: Mass Effect 2 (Legendary Edition)
+      developer: BioWare
+      released: 2021
+      status: Completed
+      highlight: Y
+    - title: Pizza Possum
+      developer: Friedemann, Noio Games
+      released: 2023
+      status: Abandoned
+    - title: Moving Out 2
+      developer: SMG Studio, DevM Games
+      released: 2023
+      status: Abandoned
+    - title: Frostpunk
+      developer: 11 bit studios
+      released: 2018
+      status: Completed
+      highlight: Y
+    - title: Stray Gods
+      developer: Summerfall Studios
+      released: 2023
+      status: Completed
+    - title: Trine 2 (Complete Story)
+      developer: Frozenbyte
+      released: 2013
+      status: Abandoned
+    - title: "Our Life: Beginnings & Always"
+      developer: GB Patch Games
+      released: 2020
+      status: Completed
+    - title: Milk inside a bag of milk inside a bag of milk
+      developer: Nikita Kryukov
+      released: 2020
+      status: Completed
+    - title: The Feast
+      developer: Sever
+      released: 2022
+      status: Completed
+    - title: Trine
+      developer: Frozenbyte
+      released: 2009
+      status: Completed
+    - title: Lumino City
+      developer: State of Play
+      released: 2014
+      status: Completed
+    - title: inbento
+      developer: Afterburn
+      released: 2019
+      status: Completed
+    - title: Two Point Hospital
+      developer: Two Point Studios
+      released: 2018
+      status: Completed
+      highlight: Y
+    - title: Slay the Spire
+      developer: Mega Crit
+      released: 2019
+      status: Completed
+    - title: Deponia
+      developer: Daedalic Entertainment
+      released: 2012
+      status: Replay
+- year: 2023
+  games:
+    - title: DREDGE
+      developer: Black Salt Games
+      released: 2023
+      status: Completed
+    - title: VVVVVV
+      developer: Terry Cavanagh
+      released: 2010
+      status: Abandoned
+    - title: "The Repair House: Restoration Sim"
+      developer:  Claudiu Kiss, QUANTUM LOGIC GAMES
+      released: 2023
+      status: Completed
+    - title: Baldur's Gate 3
+      developer: Larian Studios
+      released: 2023
+      status: Completed
+      highlight: Y
+    - title: The Flame in the Flood
+      developer: The Molasses Flood
+      released: 2016
+      status: Abandoned
+    - title: Kim
+      developer: The Secret Games Company
+      released: 2016
+      status: Abandoned
+    - title: Haven Park
+      developer: Bubblebird Studio
+      released: 2021
+      status: Completed
+    - title: Venetica
+      developer: Deck13 Interactive
+      released: 2009
+      status: Abandoned
+    - title: State of Mind
+      developer: Daedalic Entertainment
+      released: 2018
+      status: Abandoned
+    - title: As Far As The Eye
+      developer: Unexpected
+      released: 2020
+      status: Abandoned
+    - title: Holy Potatoes! We're in Space?!
+      developer: Daylight Studios
+      released: PC
+      system: 2017
+      status: Abandoned
+    - title: This is the Police II
+      developer: Weappy Studio
+      released: 2018
+      status: Abandoned
+    - title: A Little to the Left
+      developer: Max Inferno
+      released: 2022
+      system: SD
+      status: Completed
+    - title: Mass Effect (Legendary Edition)
+      developer: BioWare
+      released: 2021
+      status: Completed
+      highlight: Y
+    - title: Hades
+      developer: Supergiant Games
+      released: 2020
+      system: SD
+      status: Abandoned
+    - title: Unravel Two
+      developer: Coldwood Interactive
+      released: 2018
+      status: Completed
+    - title: Diablo IV (Closed Beta)
+      developer: Blizzard Team 3, Blizzard Albany
+      released: 2023
+      status: Completed
+    - title: PlateUp!
+      developer: It's happening
+      released: 2022
+      status: Completed
+- year: 2022
+  games:
+    - title: "World of Warcraft: Dragonflight"
+      developer: Blizzard Entertainment
+      released: 2022
+      status: Completed
+    - title: Finding Paradise
+      developer: Freebird Games
+      released: 2017
+      status: Completed
+    - title: Papers, Please
+      developer: 3909 LLC
+      released: 2013
+      status: Completed
+    - title: Dorfromantik
+      developer: Toukana Interactive
+      released: 2021
+      status: Completed
+    - title: Pyre
+      developer: Supergiant Games
+      released: 2017
+      status: Completed
+      highlight: Y
+    - title: Hand of Fate
+      developer: Defiant Development
+      released: 2015
+      status: Completed
+    - title: The Banner Saga
+      developer: Stoic
+      released: 2014
+      status: Abandoned
+    - title: Tiny Tina's Wonderlands
+      developer: Gearbox Software
+      released: 2022
+      status: Completed
+    - title: Lost Ark
+      developer: Smilegate RPG
+      released: 2022
+      status: Abandoned
+    - title: Superflight
+      developer: GrizzlyGames
+      released: 2017
+      status: Completed
+- year: 2021
+  games:
+    - title: "Final Fantasy XIV: Endwalker"
+      developer: Square Enix Creative Business Unit III
+      released: 2021
+      status: Completed
+      highlight: Y
+    - title: Diablo III (Season 24)
+      developer: Blizzard Entertainment
+      released: 2021
+      status: Completed
+    - title: Her Story
+      developer: Sam Barlow
+      released: 2015
+      status: Completed
+    - title: To the Moon
+      developer: Freebird Games
+      released: 2011
+      status: Completed
+    - title: PAYDAY 2
+      developer: Overkill Software
+      released: 2013
+      status: Abandoned
+    - title: Diablo III (Season 23)
+      developer: Blizzard Entertainment
+      released: 2021
+      status: Completed
+    - title: For the King
+      developer: IronOak Games
+      released: 2018
+      status: Completed
+    - title: Borderlands 3
+      developer: Gearbox Software
+      released: 2019
+      status: Completed
+- year: 2020
+  games:
+    - title: "World of Warcraft: Shadowlands"
+      developer: Blizzard Entertainment
+      released: 2020
+      status: Completed
+    - title: "Middle-earth: Shadow of Mordor"
+      developer: Monolith Productions
+      released: 2014
+      status: Abandoned
+    - title: Luigi's Mansion 3
+      developer: Next Level Games
+      released: 2019
+      system: NS
+      status: Completed
+    - title: "Divinity: Original Sin 2 (Definitive Edition)"
+      developer: Larian Studios
+      released: 2018
+      status: Abandoned
+    - title: Moving Out
+      developer: SMG Studio, Devm Games
+      released: 2020
+      status: Abandoned
+    - title: The Sexy Brutale
+      developer: Cavalier Game Studios, Tequila Works
+      released: 2017
+      status: Completed
+    - title: Holy Potatoes! A Weapon Shop?!
+      developer: Daylight Studios
+      released: 2015
+      status: Abandoned
+    - title: Hacknet
+      developer: Team Fractal Alligator
+      released: 2015
+      status: Completed
+    - title: "Dust: An Elysian Tail"
+      developer: Humble Hearts
+      released: 2012
+      status: Abandoned
+    - title: Spelunky
+      developer: Mossmouth
+      released: 2013
+      status: Completed
+    - title: "Final Fantasy XIV: Shadowbringers"
+      developer: Square Enix Creative Business Unit III
+      released: 2019
+      status: Completed
+      highlight: Y
+    - title: "Final Fantasy XIV: Stormblood"
+      developer: Square Enix Business Division 5
+      released: 2017
+      status: Completed
+    - title: "Final Fantasy XIV: Heavensward"
+      developer: Square Enix Business Division 5
+      released: 2015
+      status: Completed
+      highlight: Y
+    - title: "Final Fantasy XIV: A Realm Reborn"
+      developer: Square Enix Business Division 5
+      released: 2013
+      status: Completed
+- year: 2019
+  games:
+    - title: "Divinity: Original Sin (Enhanced Edition)"
+      developer: Larian Studios
+      released: 2014
+      status: Completed
+    - title: Hyper Light Drifter
+      developer: Heart Machine
+      released: 2016
+      status: Abandoned
+    - title: Diablo III (Season 18)
+      developer: Blizzard Entertainment
+      released: 2019
+      status: Completed
+    - title: Overcooked! 2
+      developer: Ghost Town Games, Team17
+      released: 2018
+      status: Completed
+    - title: "Borderlands: The Pre-Sequel"
+      developer: 2K Australia, Gearbox Software
+      released: 2014
+      status: Completed
+    - title: This is the Police
+      developer: Weappy Studio
+      released: 2016
+      status: Abandoned
+    - title: Diablo III (Season 17)
+      developer: Blizzard Entertainment
+      released: 2019
+      status: Completed
+    - title: Borderlands 2
+      developer: Gearbox Software
+      released: 2012
+      status: Completed
+    - title: "Brothers: A Tale of Two Sons"
+      developer: Starbreezer Studios
+      released: 2013
+      status: Completed
+- year: 2018
+  games:
+    - title: "World of Warcraft: Battle for Azeroth"
+      developer: Blizzard Entertainment
+      released: 2018
+      status: Completed
+    - title: Race the Sun
+      developer: Flippfly
+      released: 2013
+      status: Completed
+    - title: Ori and the Blind Forest (Definitive Edition)
+      developer: Moon Studios
+      released: 2016
+      status: Abandoned
+    - title: Tochlight II
+      developer: Runic Games
+      released: 2012
+      status: Abandoned
+    - title: Portal 2
+      developer: Valve
+      released: 2011
+      status: Abandoned
+    - title: Portal
+      developer: Valve
+      released: 2007
+      status: Abandoned
+    - title: Overcooked!
+      developer: Ghost Town Games
+      released: 2016
+      status: Completed
+    - title: Diablo III (Season 13)
+      developer: Blizzard Entertainment
+      released: 2018
+      status: Completed
+    - title: Invisible Inc.
+      developer: Klei Entertainment
+      released: 2015
+      status: Completed
+- year: 2017
+  games:
+    - title: Diablo III (Season 11)
+      developer: Blizzard Entertainment
+      released: 2017
+      status: Completed
+    - title: Diablo III (Season 10)
+      developer: Blizzard Entertainment
+      released: 2017
+      status: Completed
+    - title: Golf It! (Early Access)
+      developer: Perfuse Entertainment
+      released: 2017
+      status: Completed
+    - title: Golf With Your Friends
+      developer: Blacklight Interactive
+      released: 2016
+      status: Completed
+- year: 2016
+  games:
+    - title: Darkest Dungeon
+      developer: Red Hook Studios
+      released: 2015
+      status: Abandoned
+    - title: Diablo III (Season 7)
+      developer: Blizzard Entertainment
+      released: 2016
+      status: Completed
+    - title: Transistor
+      developer: Supergiant Games
+      released: 2014
+      status: Completed
+      highlight: Y
+    - title: Prison Architect
+      developer: Introversion Software
+      released: 2015
+      status: Completed
+    - title: Desktop Dungeons (Enhanced Edition)
+      developer: QCF Design
+      released: 2013
+      status: Completed
+    - title: "World of Warcraft: Legion"
+      developer: Blizzard Entertainment
+      released: 2016
+      status: Completed
+- year: 2015
+  games:
+    - title: Torchlight
+      developer: Runic Games
+      released: 2009
+      status: Completed
+    - title: Rogue Legacy
+      developer: Cellar Door Games
+      released: 2013
+      status: Abandoned
+    - title: Rocket League
+      developer: Psyonix
+      released: 2015
+      status: Completed
+    - title: "FTL: Faster Than Light (Advanced Edition)"
+      developer: Subset Games
+      released: 2012
+      status: Abandoned
+    - title: Deponia
+      developer: Daedalic Entertainment
+      released: 2012
+      status: Abandoned
+    - title: Bastion
+      developer: Supergiant Games
+      highlight: Y
+      released: 2011
+      status: Completed
+    - title: Aarklash Legacy
+      developer: Cyanide
+      released: 2013
+      status: Abandoned
+- year: 2014
+  games:
+    - title: "World of Warcraft: Warlords of Draenor"
+      developer: Blizzard Entertainment
+      released: 2014
+      status: Completed
+    - title: Theme Hospital
+      developer: Bullfrog Productions
+      released: 1997
+      status: Abandoned
+    - title: Battle for Wesnoth
+      developer: The Battle for Wesnoth Project
+      released: 2003
+      status: Completed
+- year: 2013
+  games:
+    - title: Guild Wars 2
+      developer: ArenaNet
+      released: 2012
+      status: Abandoned
+    - title: Don't Starve
+      developer: Klei Entertainment
+      released: 2013
+      status: Abandoned
+    - title: Plants vs. Zombies
+      developer: PopCap Games
+      released: 2009
+      status: Completed
+    - title: Machinarium
+      developer: Amanita Design
+      released: 2009
+      status: Completed
+    - title: The Cave
+      developer: Double Fine Productions
+      released: 2013
+      status: Completed
+    - title: LIMBO
+      developer: Playdead
+      released: 2010
+      status: Abandoned
+- year: 2012
+  games:
+    - title: "The Elder Scrolls V: Skyrim"
+      developer: Bethesda Game Studios
+      released: 2011
+      status: Abandoned
+    - title: Diablo III
+      developer: Blizzard Entertainment
+      released: 2012
+      status: Completed
+    - title: "World of Warcraft: Mists of Pandaria"
+      developer: Blizzard Entertainment
+      released: 2012
+      status: Completed
+- year: 2011
+  games:
+    - title: Minecraft
+      developer: Mojang Studios
+      released: 2011
+      status: Completed
+- year: 2010
+  games:
+    - title: "World of Warcraft: Cataclysm"
+      developer: Blizzard Entertainment
+      released: 2010
+      status: Completed
+- year: 2000s
+  games:
+    - title: World of Warcraft
+      developer: Blizzard Entertainment
+      released: 2004
+      status: Completed
+    - title: Runescape
+      developer: Jagex
+      released: 2001
+      status: Abandoned
+    - title: AdventureQuest
+      developer: Artix Entertainment
+      released: 2002
+      status: Completed
+    - title: Habbo
+      developer: Sulake
+      released: 2000
+      status: Completed
+    - title: Neopets
+      developer: Neopets, Inc.
+      released: 1999
+      status: Completed
+    - title: "Clue: Murder at Boddy Mansion"
+      developer: Engineering Animation
+      released: 1998
+      status: Completed
+    - title: "Freddi Fish 3: The Case of the Stolen Conch Shell"
+      developer: Humongous Entertainment
+      released: 1998
+      status: Completed
+    - title: Tonka Search & Rescue
+      developer: Hasbro Interactive
+      released: 1997
+      status: Completed
+    - title: "Lego Star Wars: The Completed Saga"
+      developer: Traveller's Tales
+      released: 2007
+      status: Abandoned
+    - title: Wii Sports
+      developer: Nintendo Entertainment Analysis & Development
+      released: 2006
+      status: Completed
+    - title: Dynasty Warriors 6
+      developer: Omega Force
+      released: 2008
+      status: Completed
+    - title: LittleBigPlanet
+      developer: Media Molecule
+      released: 2008
+      status: Completed
+    - title: Pokémon Sapphire
+      developer: Game Freak
+      released: 2003
+      status: Completed
+    - title: "Yu-Gi-Oh!: Stairway to the Destined Duel (Worldwide Edition)"
+      developer: Konami
+      released: 2003
+      status: Completed
+      highlight: Y
+    - title: "Hamtaro: Ham-Ham Heartbreak"
+      developer: Pax Softnica
+      released: 2003
+      status: Abandoned
+    - title: "Mortal Kombat: Deadly Alliance"
+      developer: Midway
+      released: 2002
+      status: Completed
+    - title: "Dragon Ball Z: The Legacy of Goku"
+      developer: Webfoot Technologies
+      released: 2002
+      status: Abandoned
+    - title: Pokémon Silver
+      developer: Game Freak
+      released: 2000
+      status: Completed
+      highlight: Y
+    - title: Pokémon Blue
+      developer: Game Freak
+      released: 1998
+      status: Completed
+    - title: Crash 'N' Burn
+      developer: Climax Studios
+      released: 2004
+      status: Completed
+    - title: Dynasty Warriors 4
+      developer: Omega Force
+      released: 2023
+      status: Completed
+    - title: "The Simpsons: Hit & Run"
+      developer: Radical Entertainment
+      released: 2003
+      status: Completed
+    - title: "Spyro: Enter the Dragonfly"
+      developer: Check Six Games
+      released: 2002
+      status: Abandoned
+    - title: Road Trip Adventure
+      developer: E-Game Inc.
+      released: 2002
+      status: Completed
+      highlight: Y
+    - title: My Street
+      developer: Idol Minds
+      released: 2002
+      status: Completed
+    - title: "The Simpsons: Road Rage"
+      developer: Radical Entertainment
+      released: 2001
+      status: Completed
+    - title: "Baldur's Gate: Dark Alliance"
+      developer: Snowblind Studios
+      released: 2001
+      status: Completed
+    - title: Tarzan
+      developer: Eurocom
+      released: 2000
+      status: Completed
+    - title: Super Smash Bros.
+      developer: HAL Laboratory
+      released: 1999
+      status: Completed
+    - title: Mario Kart 64
+      developer: Nintendo Entertainment Analysis & Development
+      released: 1997
+      status: Completed
+    - title: NickToons Racing
+      developer: Software Creations
+      released: 2001
+      status: Completed
+    - title: Mr. Driller
+      developer: Namco
+      released: 2000
+      status: Completed
+    - title: Tony Hawk's Pro Skater 2
+      developer: Neversoft
+      released: 2000
+      status: Completed
+      highlight: Y
+    - title: Destruction Derby Raw
+      developer: Studio 33, Midway
+      released: 2000
+      status: Completed
+    - title: Ms. Pac-Man Maze Madness
+      developer: Namco
+      released: 2000
+      status: Completed
+    - title: Spider-Man
+      developer: Neversoft
+      released: 2000
+      status: Abandoned
+    - title: Strider 2
+      developer: Capcom
+      released: 2000
+      status: Completed
+      highlight: Y
+    - title: Championship Bass
+      developer: Electronic Arts Seattle, Engineering Animation
+      released: 2000
+      status: Abandoned
+    - title: NASCAR Rumble
+      developer: Electronic Arts Redwood Shores
+      released: 2000
+      status: Completed
+    - title: Final Fantasy VIII
+      developer: Square
+      released: 1999
+      status: Abandoned
+    - title: "Need for Speed: High Stakes"
+      developer: Electronic Arts Canada
+      released: 1999
+      status: Completed
+    - title: Legend of Legaia
+      developer: Contrail
+      released: 1999
+      status: Abandoned
+    - title: "Army Men: Air Attack"
+      developer: The 3DO Company
+      released: 1999
+      status: Abandoned
+    - title: "Crash Bandicoot: Warped"
+      developer: Naughty Dog
+      released: 1998
+      status: Completed
+    - title: Bust-A-Move 4
+      developer: Taito
+      released: 1998
+      status: Completed
+    - title: Thrill Kill
+      developer: Paradox Development
+      released: 1998
+      status: Completed
+    - title: Tales of Destiny
+      developer: Wofl Team
+      released: 1998
+      status: Abandoned
+      highlight: Y
+    - title: Road Rash 3D
+      developer: Electronic Arts
+      released: 1998
+      status: Completed
+    - title: SaGa Frontier
+      developer: Square Product Development Division 2
+      released: 1998
+      status: Abandoned
+    - title: "Need for Speed III: Hot Pursuit"
+      developer: Electronic Arts Canada
+      released: 1998
+      status: Completed
+    - title: Bomberman World
+      developer: Hudson Soft
+      released: 1998
+      status: Completed
+    - title: Monster Rancher
+      developer: Tecmo
+      released: 1998
+      status: Completed
+    - title: Tomb Raider II
+      developer: Core Design
+      released: 1997
+      status: Abandoned
+    - title: PaRappa the Rapper
+      developer: NanaOn-Sha
+      released: 1997
+      status: Completed
+      highlight: Y
+    - title: Final Fantasy VII
+      developer: Square
+      released: 1997
+      status: Abandoned
+    - title: 2Xtreme
+      developer: Sony Interactive Studios America
+      released: 1996
+      status: Completed
+    - title: Tobal No. 1
+      developer: DreamFactory
+      released: 1996
+      status: Completed
+    - title: Crash Bandicoot
+      developer: Naughty Dog
+      released: 1996
+      status: Completed
+    - title: Robo Pit
+      developer: Altron
+      released: 1996
+      status: Completed
+- year: 1990s
+  games:
+    - title: "Battletoads & Double Dragon: The Ultimate Team"
+      developer: Rare
+      released: 1993
+      status: Abandoned
+    - title: "Break Time: The National Pool Tour"
+      developer: Opera House
+      released: 1993
+      status: Completed
+    - title: Battletoads
+      developer: Rare
+      released: 1991
+      status: Abandoned
+    - title: Dr. Mario
+      developer: Nintendo R&D1
+      released: 1990
+      status: Completed
+    - title: Track & Field II
+      developer: Konami
+      released: 1989
+      status: Completed
+    - title: Blades of Steel
+      developer: Konami
+      released: 1988
+      status: Completed
+    - title: Arkanoid
+      developer: Taito
+      released: 1987
+      status: Completed
+      highlight: Y
+    - title: Excitebike
+      developer: Nintendo R&D4
+      released: 1985
+      status: Completed
+    - title: Duck Hunt
+      developer: Nintendo R&D1, Intelligent Systems
+      released: 1985
+      status: Completed
+    - title: Super Mario Bros
+      developer: Nintendo R&D4
+      released: 1985
+      status: Completed

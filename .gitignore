@@ -1,3 +1,4 @@
-_audit
-_drafts
-_ideas
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata

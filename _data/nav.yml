@@ -1,0 +1,8 @@
+- name: About
+  link: /about
+- name: Colophon
+  link: /colophon
+- name: Reading
+  link: /reading
+- name: Gaming
+  link: /gaming

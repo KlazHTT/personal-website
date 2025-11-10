@@ -204,10 +204,11 @@ footer {
 
 .media-list a:hover {
   border-color: var(--color-primary-alternative);
-  .media-list-date {
-    color: var(--color-primary-main);
-  }
 }
+.media-list a:hover .media-list-date {
+  color: var(--color-primary-main);
+}
+
 
 /* ----------------------------------------------------------------------------
 -- // MEDIA LOG
@@ -266,32 +267,27 @@ footer {
 .media-log-item:hover {
   border-bottom: 1px solid var(--color-primary-alternative);
   color: var(--color-primary-main);
-
-  .media-log-highlight {
-    color: var(--color-text-emphasize);
-  }
-
-  .media-log-date {
-    border-color: var(--color-primary-alternative);
-    background-color: var(--color-primary-alternative);
-    color: var(--color-text-emphasize);
-  }
-
-  .media-log-status-abandoned {
-    border-color: var(--color-status-abandoned);
-    background-color: var(--color-status-abandoned);
-    color: var(--color-text-emphasize);
-  }
-
-  .media-log-status-revisited {
-    border-color: var(--color-status-revisit);
-    background-color: var(--color-status-revisit);
-    color: var(--color-text-emphasize);
-  }
-
-  .media-log-creator {
-    color: var(--color-text-main);
-  }
+}
+.media-log-item:hover .media-log-highlight {
+  color: var(--color-text-emphasize);
+}
+.media-log-item:hover .media-log-date {
+  border-color: var(--color-primary-alternative);
+  background-color: var(--color-primary-alternative);
+  color: var(--color-text-emphasize);
+}
+.media-log-item:hover .media-log-status-abandoned {
+  border-color: var(--color-status-abandoned);
+  background-color: var(--color-status-abandoned);
+  color: var(--color-text-emphasize);
+}
+.media-log-item:hover .media-log-status-revisited {
+  border-color: var(--color-status-revisit);
+  background-color: var(--color-status-revisit);
+  color: var(--color-text-emphasize);
+}
+.media-log-item:hover .media-log-creator {
+  color: var(--color-text-main);
 }
 
 /* ----------------------------------------------------------------------------

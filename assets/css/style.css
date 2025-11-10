@@ -37,7 +37,6 @@
 
 body {
   border-top: 4px solid var(--color-primary-alternative);
-  border-bottom: 4px solid var(--color-primary-alternative);
   background-color: var(--color-bg-main);
   font-size: 1em;
   line-height: 1.6;

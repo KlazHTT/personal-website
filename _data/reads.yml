@@ -1,17 +1,19 @@
 - year: Current
   reads:
-    - title: A Closed and Common Orbit
+    - title: Record of a Spaceborn Few
       author: Becky Chambers
-      published: 2016
+      published: 2018
       status:
-      rating:
     - title: The Life-Changing Magic of Tidying Up
       author: Marie Kondo
       published: 2010
       status:
-      rating:
 - year: 2025
   reads:
+    - title: A Closed and Common Orbit
+      author: Becky Chambers
+      published: 2016
+      status: Completed
     - title: The Long Way to a Small, Angry Planet
       author: Becky Chambers
       published: 2014

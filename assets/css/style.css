@@ -6,7 +6,6 @@
 
   --color-border-main: #777;
   --color-border-alternative: #323232;
-  --color-border-emphasize: #fff;
 
   --color-text-main: #d4d4d4;
   --color-text-alternative: #707070;
@@ -18,7 +17,7 @@
   --color-primary-dark: #005c45;
 
   --color-status-abandoned: #dd4444;
-  --color-status-revisit: #0088dd;
+  --color-status-revisit: #0091ee;
 }
 
 /* ----------------------------------------------------------------------------
@@ -118,7 +117,7 @@ nav a:visited {
 }
 
 nav a:hover {
-  text-decoration: underline solid var(--color-border-emphasize);
+  text-decoration: underline solid var(--color-primary-main);
   text-underline-offset: 3px;
   text-decoration-thickness: 2px;
 }

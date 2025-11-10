@@ -1,8 +1,8 @@
 title: Hao Tran
 email: hello@haothitran.com
 description: What is this nonsense?
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "haothitran.com"
+baseurl: ""
+url: ""
 
 include:
   - _pages

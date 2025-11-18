@@ -10,6 +10,10 @@
       status:
 - year: 2025
   games:
+    - title: Unpacking
+      developer: Witch Beam
+      released: 2021
+      status: Completed
     - title: Proverbs
       developer: Mark Ffrench
       released: 2024

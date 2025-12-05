@@ -110,7 +110,11 @@
       released: 2023
       status: Replay
       highlight: Y
-    - title: DREDGE
+    - title: "DREDGE: The Iron Rig"
+      developer: Black Salt Games
+      released: 2023
+      status: Replay
+    - title: "DREDGE: The Pale Reach"
       developer: Black Salt Games
       released: 2023
       status: Replay
@@ -414,6 +418,10 @@
       developer: Sam Barlow
       released: 2015
       status: Completed
+    - title: Untitled Goose Game
+      developer: House House
+      released: 2020
+      status: Abandoned
     - title: To the Moon
       developer: Freebird Games
       released: 2011
@@ -476,7 +484,7 @@
     - title: Spelunky
       developer: Mossmouth
       released: 2013
-      status: Completed
+      status: Abandoned
     - title: "Final Fantasy XIV: Shadowbringers"
       developer: Square Enix Creative Business Unit III
       released: 2019
@@ -547,7 +555,7 @@
       developer: Moon Studios
       released: 2016
       status: Abandoned
-    - title: Tochlight II
+    - title: Torchlight II
       developer: Runic Games
       released: 2012
       status: Abandoned
@@ -717,7 +725,7 @@
       developer: Blizzard Entertainment
       released: 2008
       status: Completed
-    - title: "World of Warcraft: Burning Crusader"
+    - title: "World of Warcraft: The Burning Crusade"
       developer: Blizzard Entertainment
       released: 2007
       status: Completed

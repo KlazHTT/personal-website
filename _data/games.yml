@@ -8,6 +8,16 @@
       developer: Two Point Studios
       released: 2025
       status:
+    - title: "Boxes: Lost Fragments"
+      developer: Big Loop Studios
+      released: 2024
+      status:
+- year: 2026
+  games:
+    - title: Spilled!
+      developer: Lente
+      released: 2025
+      status: Completed
 - year: 2025
   games:
     - title: Is This Seat Taken?

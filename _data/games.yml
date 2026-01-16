@@ -1,5 +1,13 @@
 - year: Currently
   games:
+    - title: The Battle for Wesnoth
+      developer: The Battle for Wesnoth Project
+      released: 2005
+      status:
+    - title: Escape Simulator
+      developer: Pine Studio
+      released: 2021
+      status:
     - title: Hand of Fate 2
       developer: Defiant Development
       released: 2017

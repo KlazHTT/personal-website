@@ -1,9 +1,5 @@
 - year: Currently
   games:
-    - title: The Battle for Wesnoth
-      developer: The Battle for Wesnoth Project
-      released: 2005
-      status:
     - title: Escape Simulator
       developer: Pine Studio
       released: 2021
@@ -18,6 +14,10 @@
       status:
 - year: 2026
   games:
+    - title: Battle for Wesnoth
+      developer: The Battle for Wesnoth Project
+      released: 2003
+      status: Abandoned
     - title: "Boxes: Lost Fragments"
       developer: Big Loop Studios
       released: 2024
@@ -690,7 +690,7 @@
     - title: Battle for Wesnoth
       developer: The Battle for Wesnoth Project
       released: 2003
-      status: Completed
+      status: Abandoned
 - year: 2013
   games:
     - title: Guild Wars 2

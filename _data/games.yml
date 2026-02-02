@@ -4,16 +4,16 @@
       developer: Pine Studio
       released: 2021
       status:
-    - title: Hand of Fate 2
-      developer: Defiant Development
-      released: 2017
-      status:
     - title: Two Point Museum
       developer: Two Point Studios
       released: 2025
       status:
 - year: 2026
   games:
+    - title: Hand of Fate 2
+      developer: Defiant Development
+      released: 2017
+      status: Abandoned
     - title: Void Sails
       developer: Ticking Cock Games
       released: 2025

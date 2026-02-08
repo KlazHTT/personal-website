@@ -1,15 +1,15 @@
 - year: Currently
   games:
-    - title: Escape Simulator
-      developer: Pine Studio
-      released: 2021
-      status:
     - title: Two Point Museum
       developer: Two Point Studios
       released: 2025
       status:
 - year: 2026
   games:
+    - title: Escape Simulator
+      developer: Pine Studio
+      released: 2021
+      status: Completed
     - title: Hand of Fate 2
       developer: Defiant Development
       released: 2017

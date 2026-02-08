@@ -6,6 +6,10 @@
       status:
 - year: 2026
   games:
+    - title: "Dungeons & Dragons: Chronicles of Mystara"
+      developer: Iron Galaxy Studios
+      released: 2013
+      status: Abandoned
     - title: Escape Simulator
       developer: Pine Studio
       released: 2021

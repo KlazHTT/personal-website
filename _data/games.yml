@@ -6,6 +6,10 @@
       status:
 - year: 2026
   games:
+    - title: Ziggurat
+      developer: Milkstone Studios
+      released: 2014
+      status: Abandoned
     - title: "Dungeons & Dragons: Chronicles of Mystara"
       developer: Iron Galaxy Studios
       released: 2013

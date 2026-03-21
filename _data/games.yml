@@ -14,6 +14,10 @@
       status: Replay
 - year: 2026
   games:
+    - title: For the King 2
+      developer: IronOak Games
+      released: 2023
+      status: Completed
     - title: Not Tonight
       developer: PanicBarn
       released: 2018

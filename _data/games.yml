@@ -10,6 +10,14 @@
       status:
 - year: 2026
   games:
+    - title: "Hardspace: Shipbreaker"
+      developer: Blackbird Interactive
+      released: 2022
+      status: Completed
+    - title: Don't Starve Together
+      developer: Klei Entertainment
+      released: 2016
+      status: Abandoned
     - title: Slay the Spire
       developer: Mega Crit
       released: 2019

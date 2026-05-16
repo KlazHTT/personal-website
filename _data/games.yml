@@ -10,6 +10,10 @@
       status:
 - year: 2026
   games:
+    - title: Railbound
+      developer: Afterburn
+      released: 2022
+      status: Completed
     - title: Cosmic Express
       developer: Cosmic Engineers, Alan Hazelden, Benjamin Davis, Tyu
       released: 2017

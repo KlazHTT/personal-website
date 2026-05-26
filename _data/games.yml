@@ -10,6 +10,14 @@
       status:
 - year: 2026
   games:
+    - title: "Clue/Cluedo"
+      developer: Marmalade Game Studio
+      released: 2023
+      status: Completed
+    - title: "Clue/Cluedo: Classic Edition"
+      developer: Marmalade Game Studio
+      released: 2018
+      status: Completed
     - title: Railbound
       developer: Afterburn
       released: 2022

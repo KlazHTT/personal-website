@@ -14,6 +14,6 @@ Reach out at [hello@haothitran.com](mailto:hello@haothitran.com) to say 👋.
 
 - [LinkedIn](https://www.linkedin.com/in/haothitran/) — For professional connections, strategically corporate.
 - [GitHub](https://github.com/KlazHTT) — For personal coding projects, sporadically updated.
-- [Twitch](https://www.twitch.tv/klazhtt) — For streaming gameplay, questionablly skilled.
+- [Twitch](https://www.twitch.tv/klazhtt) — For streaming gameplay, questionably skilled.
 - [Hardcover](https://hardcover.app/@klazhtt/stats) — For read books, pretentiously literary.
-- [Letterboxd](https://letterboxd.com/klazhtt/films/) — For watched moviesshows, crtically unqualified.
+- [Letterboxd](https://letterboxd.com/klazhtt/films/) — For watched movies, critically unqualified.

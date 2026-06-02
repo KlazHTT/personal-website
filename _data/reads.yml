@@ -10,6 +10,10 @@
       status:
 - year: 2026
   reads:
+    - title: The Yellow Wallpaper
+      author: Charlotte Perkins Gilman
+      published: 1892
+      status: completed
     - title: When the Cranes Fly South
       author: Lisa Ridzén
       published: 2024

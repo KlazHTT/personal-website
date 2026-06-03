@@ -1,19 +1,19 @@
 - year: Currently
   reads:
-    - title: The Life-Changing Magic of Tidying Up
-      author: Marie Kondo
-      published: 2010
-      status:
     - title: The Song of Archilles
       author: Madeline Miller
       published: 2011
       status:
 - year: 2026
   reads:
+    - title: The Life-Changing Magic of Tidying Up
+      author: Marie Kondo
+      published: 2010
+      status: Completed
     - title: The Yellow Wallpaper
       author: Charlotte Perkins Gilman
       published: 1892
-      status: completed
+      status: Completed
     - title: When the Cranes Fly South
       author: Lisa Ridzén
       published: 2024

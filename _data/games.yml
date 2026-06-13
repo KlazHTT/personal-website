@@ -10,6 +10,10 @@
       status:
 - year: 2026
   games:
+    - title: PowerWash Simulator 2
+      developer: FuturLab
+      released: 2025
+      status: Completed
     - title: Mega Mosaic
       developer: Mark Ffrench
       released: 2024

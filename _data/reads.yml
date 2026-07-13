@@ -1,11 +1,15 @@
 - year: Currently
   reads:
-    - title: The Hunger Games
+    - title: Catching Fire
       author: Suzanne Collins
-      published: 2008
+      published: 2009
       status:
 - year: 2026
   reads:
+    - title: The Hunger Games
+      author: Suzanne Collins
+      published: 2008
+      status: Completed
     - title: The Song of Achilles
       author: Madeline Miller
       published: 2011

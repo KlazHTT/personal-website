@@ -10,6 +10,10 @@
       status:
 - year: 2026
   games:
+    - title: Galacticare
+      developer: Brightrock Games
+      released: 2024
+      status: Completed
     - title: Deep Rock Galactic
       developer: Ghost Ship Games
       released: 2020

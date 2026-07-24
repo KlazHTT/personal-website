@@ -1,11 +1,15 @@
 - year: Currently
   reads:
-    - title: Catching Fire
+    - title: Mockingjay
       author: Suzanne Collins
-      published: 2009
+      published: 2010
       status:
 - year: 2026
   reads:
+    - title: Catching Fire
+      author: Suzanne Collins
+      published: 2009
+      status: Completed
     - title: The Hunger Games
       author: Suzanne Collins
       published: 2008

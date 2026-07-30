@@ -943,7 +943,7 @@
       released: 1999
       status: Completed
     - title: Mario Kart 64
-      developer: Nintendo Entertainment Analysis & Development
+      developer: Nintendo
       released: 1997
       status: Completed
     - title: NickToons Racing
@@ -977,11 +977,11 @@
       status: Completed
       highlight: Y
     - title: Championship Bass
-      developer: Electronic Arts Seattle, Engineering Animation
+      developer: Electronic Arts, Engineering Animation
       released: 2000
       status: Abandoned
     - title: NASCAR Rumble
-      developer: Electronic Arts Redwood Shores
+      developer: Electronic Arts
       released: 2000
       status: Completed
     - title: Final Fantasy VIII
@@ -989,7 +989,7 @@
       released: 1999
       status: Abandoned
     - title: "Need for Speed: High Stakes"
-      developer: Electronic Arts Canada
+      developer: Electronic Arts
       released: 1999
       status: Completed
     - title: Legend of Legaia
@@ -1018,11 +1018,11 @@
       released: 1998
       status: Completed
     - title: SaGa Frontier
-      developer: Square Product Development Division 2
+      developer: Square
       released: 1998
       status: Abandoned
     - title: "Need for Speed III: Hot Pursuit"
-      developer: Electronic Arts Canada
+      developer: Electronic Arts
       released: 1998
       status: Completed
     - title: Bomberman World
@@ -1047,7 +1047,7 @@
       released: 1997
       status: Abandoned
     - title: 2Xtreme
-      developer: Sony Interactive Studios America
+      developer: Sony
       released: 1996
       status: Completed
     - title: Tobal No. 1
@@ -1077,7 +1077,7 @@
       released: 1991
       status: Abandoned
     - title: Dr. Mario
-      developer: Nintendo R&D1
+      developer: Nintendo
       released: 1990
       status: Completed
     - title: Track & Field II
@@ -1094,14 +1094,14 @@
       status: Completed
       highlight: Y
     - title: Excitebike
-      developer: Nintendo R&D4
+      developer: Nintendo
       released: 1985
       status: Completed
     - title: Duck Hunt
-      developer: Nintendo R&D1, Intelligent Systems
+      developer: Nintendo, Intelligent Systems
       released: 1985
       status: Completed
     - title: Super Mario Bros
-      developer: Nintendo R&D4
+      developer: Nintendo
       released: 1985
       status: Abandoned

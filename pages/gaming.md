@@ -6,7 +6,7 @@ permalink: /gaming
 
 Here is a list of games that I've played or re-played, arranged in reverse chronological order.
 
-From childhood, I have tried my best to recall the titles that I've played during this golden era of console gaming. Unfortunately, it is like that some titles have been lost in memory. For the sake of my sanity, these games are listed by platform release then by game release date as there is no way for me to remember exactly what order I played these titles, especially as I had access to different consoles through friends and family members.
+From childhood, I have tried my best to recall the titles that I've played during this golden era of console gaming. Unfortunately, it is likely that some titles have been lost in memory. For the sake of my sanity, these games are listed by platform release then by game release date as there is no way for me to remember exactly what order I played these titles, especially as I had access to different consoles through friends and family members.
 
 Any star (★) denotes a great experience.
 

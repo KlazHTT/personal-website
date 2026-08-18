@@ -175,7 +175,7 @@
       developer: Anneka Tran
       released: 2022
       status: Completed
-    - title: The Witcher (Enhanced Edition Director's Cut)
+    - title: The Witcher
       developer: CD PROJEKT RED
       released: 2008
       status: Completed
@@ -254,7 +254,7 @@
       developer: Airship Syndicate
       released: 2024
       status: Completed
-    - title: "Mass Effect 3 (Legendary Edition)"
+    - title: "Mass Effect 3"
       developer: BioWare
       released: 2021
       status: Completed
@@ -297,7 +297,7 @@
       released: 2022
       status: Abandoned
     - title: "Final Fantasy XV: Dawntrail"
-      developer: Square Enix Creative Studio III
+      developer: Square Enix
       released: 2024
       status: Completed
     - title: A Building Full of Cats
@@ -324,7 +324,7 @@
       developer: Subset Games6
       released: 2018
       status: Completed
-    - title: Mass Effect 2 (Legendary Edition)
+    - title: Mass Effect 2
       developer: BioWare
       released: 2021
       status: Completed
@@ -346,7 +346,7 @@
       developer: Summerfall Studios
       released: 2023
       status: Completed
-    - title: Trine 2 (Complete Story)
+    - title: Trine 2
       developer: Frozenbyte
       released: 2013
       status: Abandoned
@@ -440,7 +440,7 @@
       released: 2022
       system: SD
       status: Completed
-    - title: Mass Effect (Legendary Edition)
+    - title: Mass Effect
       developer: BioWare
       released: 2021
       status: Completed
@@ -504,7 +504,7 @@
 - year: 2021
   games:
     - title: "Final Fantasy XIV: Endwalker"
-      developer: Square Enix Creative Business Unit III
+      developer: Square Enix
       released: 2021
       status: Completed
       highlight: Y
@@ -584,21 +584,21 @@
       released: 2013
       status: Abandoned
     - title: "Final Fantasy XIV: Shadowbringers"
-      developer: Square Enix Creative Business Unit III
+      developer: Square Enix
       released: 2019
       status: Completed
       highlight: Y
     - title: "Final Fantasy XIV: Stormblood"
-      developer: Square Enix Business Division 5
+      developer: Square Enix
       released: 2017
       status: Completed
     - title: "Final Fantasy XIV: Heavensward"
-      developer: Square Enix Business Division 5
+      developer: Square Enix
       released: 2015
       status: Completed
       highlight: Y
     - title: "Final Fantasy XIV: A Realm Reborn"
-      developer: Square Enix Business Division 5
+      developer: Square Enix
       released: 2013
       status: Completed
 - year: 2019

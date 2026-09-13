@@ -1,11 +1,15 @@
 - year: Currently
   reads:
-    - title: Mockingjay
-      author: Suzanne Collins
-      published: 2010
+    - title: Death Wears Yellow Garters
+      author: Rae D. Magdon
+      published: 2016
       status:
 - year: 2026
   reads:
+    - title: Mockingjay
+      author: Suzanne Collins
+      published: 2010
+      status: Completed
     - title: Catching Fire
       author: Suzanne Collins
       published: 2009

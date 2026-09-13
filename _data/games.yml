@@ -14,6 +14,10 @@
       status:
 - year: 2026
   games:
+    - title: Escape Simulator 2
+      developer: Pine Studio
+      released: 2025
+      status: Completed
     - title: Final Fantasy XVI
       developer: Square Enix
       released: 2023

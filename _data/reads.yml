@@ -1,11 +1,15 @@
 - year: Currently
   reads:
-    - title: Light from Uncommon Stars
-      author: Ryka Aoki
-      published: 2021
+    - title: Jonathan Strange & Mr Norrell
+      author: Susanna Clarke
+      published: 2004
       status:
 - year: 2026
   reads:
+    - title: Light from Uncommon Stars
+      author: Ryka Aoki
+      published: 2021
+      status: Completed
     - title: Death Wears Yellow Garters
       author: Rae D. Magdon
       published: 2016

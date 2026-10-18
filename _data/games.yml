@@ -1,8 +1,8 @@
 - year: Currently
   games:
-    - title: The Alters
-      developer: 11 Bit Studios
-      released: 2025
+    - title: "The Legend of Zelda: Breath of the Wild"
+      developer: Nintendo
+      released: 2017
       status:
     - title: Two Point Museum
       developer: Two Point Studios
@@ -14,6 +14,18 @@
       status:
 - year: 2026
   games:
+    - title: The Alters
+      developer: 11 Bit Studios
+      released: 2025
+      status: Completed
+    - title : Mosaic of the Pharaohs
+      developer: Mark Ffrench
+      released: 2025
+      status: Completed
+    - title: Orc Incremental
+      developer: Nice Ride
+      released: 2026
+      status: Completed
     - title: "Borderlands 4: FL4K and the Last Resort"
       developer: Gearbox
       released: 2026

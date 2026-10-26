@@ -14,6 +14,10 @@
       status:
 - year: 2026
   games:
+    - title: The Banner Saga
+      developer: Stoic
+      released: 2014
+      status: Replay
     - title: The Alters
       developer: 11 Bit Studios
       released: 2025
